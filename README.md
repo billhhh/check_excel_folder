@@ -1,2 +1,3 @@
-# check_in_txt
-Check 2 txt files, names in A but not in B
+# check_food_name
+
+Check food name of FoodAI project
