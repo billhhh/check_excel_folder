@@ -54,16 +54,16 @@ for item in vv_set:
 # print('l2v_dict', l2v_dict);
 print('len l2v_dict', len(l2v_dict));
 
-label_names = list(filter(lambda x:x.endswith('.db')==False, os.listdir(DATA_PATH_ROOT)));
+folder_label_names = list(filter(lambda x:x.endswith('.db')==False, os.listdir(DATA_PATH_ROOT)));
 # for item in lb_set:
 #     print(item)
 
 print('------------------in folder not in excel')
-for item in label_names:
+for item in folder_label_names:
     if item not in lb_set:
         print(item)
 
 print('------------------in excel not in folder')
 for item in lb_set:
-    if item not in label_names:
+    if item not in folder_label_names:
         print(l2v_dict[item])
