@@ -1,0 +1,64 @@
+#item: 1166
+#visual: 764
+#categories: 152
+len l2v_dict 764
+------------------in folder not in excel
+------------------in excel not in folder
+Seafood tom yum soup
+Stir fried nai bai
+Dry ban mian
+Sweet potato fries
+Salted egg squid
+Cucumber
+Xxl crispy fried chicken
+Beef stew soup
+Salted egg
+Stir fried bittergourd
+Sambal goreng
+Acai bowl
+Apple pie
+Thai boat noodles
+Sambal sweet potato leaves
+Taco
+Jjamppong
+Scones
+Sambal clams
+Fried egg
+Vegetable u mian
+Mixed fruits cup
+Grain salad with vegetables
+Crayfish pasta
+Almond paste
+Fish burger with sides
+Beef burger with sides
+Chicken drumsticks
+Seafood tempura
+Pesto pasta
+Castella cake
+Pulled pork burger
+Pok¨¦ bowl
+Stir fried udon
+Beancurd dessert with toppings
+Red wine chicken mee sua
+Salted egg prawn
+Potato wedges
+Vegetable salad with vegetables
+Ma la xiang guo
+Dao xiao mian
+Fishball
+Vegetable salad with vegetables and protein
+Kimchi pancake
+Naengmyeon
+Salted egg pork rib
+Grain salad with vegetables and protein
+Preserved egg
+Ham
+Spinach with trio eggs
+Kaya butter steamed bread
+Chicken burger with sides
+Hong kong egglet
+Danish pastry
+Bread with cheese cubes
+Curry udon
+Fried chicken with sides
+Ravioli
