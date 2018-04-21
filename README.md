@@ -1,3 +1,3 @@
-# check_excel_txt
+# check_excel_folder
 
-Check each row of excel and txt
+Check each row of excel and folder, to see which one is not in another
