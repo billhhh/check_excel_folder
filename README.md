@@ -1,3 +1,3 @@
-# check_food_name
+# check_excel_txt
 
-Check food name of FoodAI project
+Check each row of excel and txt
