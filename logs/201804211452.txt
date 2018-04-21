@@ -1,0 +1,24 @@
+#item: 1034
+#visual: 722
+#categories: 150
+len l2v_dict 722
+------------------in folder not in excel
+tempeh
+------------------in excel not in folder
+Ma la xiang guo
+Raisin bun
+Indian rojak
+Beancurd dessert with toppings
+Sambal goreng
+Bread with cheese cubes
+Red wine chicken mee sua
+Pulled pork burger
+Kaya butter steamed bread
+Seafood tom yum soup
+Chicken wing
+Xxl crispy fried chicken
+Almond paste
+Sweet potato fries
+Vegetable u mian
+Chicken drumsticks
+Beef stew soup
