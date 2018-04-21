@@ -6,14 +6,14 @@ import numpy as np
 
 # params
 NUM_ROW = 1034;
-excel_path = './1_H365_Foods_for_LARC_HPB_Updated_20180421.xls';
+excel_path = './excel/1_H365_Foods_for_LARC_HPB_Updated_20180421.xls';
 DATA_PATH_ROOT = 'D:/dataset/FoodAI/Bill_Workspace/top50_confuse/FoodAI__20180421/val';
 
 # read xls file
 # 4, 18, 22 cols
-df_i = pd.read_excel(excel_path, parse_cols=[1,4],sheetname='Food_new', index_col=0, skiprows=0, header=0, skip_footer=0)[0:NUM_ROW];
-df_v = pd.read_excel(excel_path, parse_cols=[1,18],sheetname='Food_new', index_col=0, skiprows=0, header=0, skip_footer=0)[0:NUM_ROW];
-df_c = pd.read_excel(excel_path, parse_cols=[1,22],sheetname='Food_new', index_col=0, skiprows=0, header=0, skip_footer=0)[0:NUM_ROW];
+df_i = pd.read_excel(excel_path, usecols=[1,4],sheet_name='Food_new', index_col=0, skiprows=0, header=0, skip_footer=0)[0:NUM_ROW];
+df_v = pd.read_excel(excel_path, usecols=[1,18],sheet_name='Food_new', index_col=0, skiprows=0, header=0, skip_footer=0)[0:NUM_ROW];
+df_c = pd.read_excel(excel_path, usecols=[1,22],sheet_name='Food_new', index_col=0, skiprows=0, header=0, skip_footer=0)[0:NUM_ROW];
 
 ii = np.squeeze(df_i.as_matrix());
 vv = np.squeeze(df_v.as_matrix());
