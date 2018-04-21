@@ -51,7 +51,7 @@ for item in vv_set:
     tmp = item.replace(' ', '_').replace('-', '_').replace('/', '_').replace("'", '_').lower();
     l2v_dict[tmp] = item;
     lb_set.add(tmp);
-print('l2v_dict', l2v_dict);
+# print('l2v_dict', l2v_dict);
 print('len l2v_dict', len(l2v_dict));
 
 visual_names = list(filter(lambda x:x.endswith('.db')==False, os.listdir(DATA_PATH_ROOT)));
