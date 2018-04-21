@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 # params
-NUM_ROW = 1034;
+NUM_ROW = 1200;
 excel_path = './excel/3_H365_Foods_for_LARC_HPB_Updated_20180421.xls';
 DATA_PATH_ROOT = 'D:/dataset/FoodAI/Bill_Workspace/top50_confuse/FoodAI__20180421/val';
 
