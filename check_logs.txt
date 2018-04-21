@@ -1,0 +1,40 @@
+#item: 1034
+#visual: 722
+#categories: 150
+len l2v_dict 722
+------------------in folder not in excel
+assam_fish_fisk_masak_pedas
+barfi_sohn_papadi_whmerge
+fish_tofu
+fried_cuttlefish_with_chilli_powder
+macaroon
+prawn_pasta
+seafood_tom_yam_ban_mian
+tempeh
+thick_toast
+tomato_based_pasta
+------------------in excel not in folder
+Tomato pasta
+Indian rojak
+Sweet potato fries
+Chicken drumsticks
+Kaya butter steamed bread
+Pulled pork burger
+Raisin bun
+Macaron
+Barfi/sohn papadi
+Seafood tom yum soup
+Shibuya toast
+Bread with cheese cubes
+Xxl crispy fried chicken
+Fish tofu/cheese tofu
+Almond paste
+Sambal goreng
+Chicken wing
+Red wine chicken mee sua
+Assam fish/fish masak pedas
+Ma la xiang guo
+Beef stew soup
+Vegetable u mian
+Seafood tom yum ban mian
+Beancurd dessert with toppings
