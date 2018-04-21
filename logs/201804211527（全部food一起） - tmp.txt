@@ -5,60 +5,59 @@ len l2v_dict 764
 ------------------in folder not in excel
 ------------------in excel not in folder
 
-Stir fried nai bai
-Dry ban mian
-
-Salted egg squid
-Cucumber
 
 
-Salted egg
-Stir fried bittergourd
-
-Acai bowl
-Apple pie
-Thai boat noodles
-Sambal sweet potato leaves
-Taco
-Jjamppong
-Scones
-Sambal clams
-Fried egg
-
-Mixed fruits cup
-Grain salad with vegetables
-Crayfish pasta
-
-Fish burger with sides
-Beef burger with sides
-
-Seafood tempura
-Pesto pasta
-Castella cake
-
-Pok¨¦ bowl
-Stir fried udon
 
 
-Salted egg prawn
-Potato wedges
-Vegetable salad with vegetables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Dao xiao mian
-Fishball
-Vegetable salad with vegetables and protein
-Kimchi pancake
-Naengmyeon
-Salted egg pork rib
-Grain salad with vegetables and protein
-Preserved egg
-Ham
-Spinach with trio eggs
 
-Chicken burger with sides
-Hong kong egglet
-Danish pastry
 
-Curry udon
-Fried chicken with sides
-Ravioli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
