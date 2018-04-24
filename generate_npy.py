@@ -7,7 +7,7 @@ import operator
 
 # params
 NUM_ROW = 1200;
-SAVE_FLAG = True;
+SAVE_FLAG = False;
 excel_path = './excel/5_H365_Foods_for_LARC_HPB_Updated_20180422.xls';
 
 # read xls file
