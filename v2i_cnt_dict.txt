@@ -1,0 +1,758 @@
+VISUAL NAME                                       :	#ITEMS
+------------------------------------------------------------
+Lassi                                             :	1
+Almond jelly dessert                              :	1
+Watercress with pork ribs soup                    :	1
+Pulut inti                                        :	1
+Makhani dal                                       :	1
+Green bean cake                                   :	1
+Watermelon                                        :	1
+Bak kwa                                           :	1
+Peanut candy                                      :	1
+Teppanyaki beef                                   :	1
+French toast                                      :	1
+Ginseng chicken soup                              :	1
+Croquette                                         :	1
+Seasoned baby octopus                             :	1
+Red ruby with coconut milk                        :	1
+Chicken feet noodles soup                         :	1
+Taco                                              :	1
+Kaya cake                                         :	1
+Braised pork ribs dim sum                         :	1
+Mango                                             :	1
+Mashed potato                                     :	1
+Sake                                              :	1
+Chicken and mushroom noodles soup                 :	1
+Fried athirasam                                   :	1
+Paper wrapped chicken                             :	1
+Croissant                                         :	1
+Dry beef noodles                                  :	1
+Pak tong koh                                      :	1
+Coffee bun                                        :	1
+Savoury crepe                                     :	1
+Hoon kuih                                         :	1
+Mee bandung                                       :	1
+Rice cracker                                      :	1
+Stir fried mixed vegetable                        :	1
+Apple                                             :	1
+Fruit cake                                        :	1
+Oyster meesua                                     :	1
+Fish and chips                                    :	1
+Bingsu                                            :	1
+Vegetarian prawn                                  :	1
+Boneless sardines                                 :	1
+Bergedil                                          :	1
+Sotong ball                                       :	1
+Claypot rice with chicken                         :	1
+Duck confit                                       :	1
+Deep fried wanton                                 :	1
+Mixed fruits                                      :	1
+Churros                                           :	1
+Kuih bahulu                                       :	1
+Fish curry                                        :	1
+Almond croissant                                  :	1
+Steamed sponge cake                               :	1
+Yakitori chicken skin                             :	1
+Stir fried beansprouts                            :	1
+Braised mixed vegetables                          :	1
+Hot plate tofu                                    :	1
+Cereal prawn                                      :	1
+Hashbrown                                         :	1
+Drunken prawn                                     :	1
+Pomelo                                            :	1
+Ondeh ondeh                                       :	1
+Okonomiyaki                                       :	1
+Muruku                                            :	1
+Coconut water                                     :	1
+Potong ice cream                                  :	1
+Lamb chop                                         :	1
+Stir fried cuttlefish with chilli                 :	1
+Kuih pie tee                                      :	1
+Chicken pie                                       :	1
+Chicken drumsticks                                :	1
+Stir fried kailan with meat                       :	1
+Bo luo bao                                        :	1
+Seafood tempura                                   :	1
+Scrambled egg                                     :	1
+Satay beehoon                                     :	1
+Grilled stingray with sambal                      :	1
+Fried pork chop                                   :	1
+Braised intestine                                 :	1
+Nasi tomato                                       :	1
+Banana                                            :	1
+Tandoori chicken                                  :	1
+Seafood tom yum soup                              :	1
+Dry prawn noodles                                 :	1
+Fried hong kong egg noodles                       :	1
+Beef bolognese                                    :	1
+Barbecued spare ribs                              :	1
+Yam rice                                          :	1
+Shibuya toast                                     :	1
+Rice kheer                                        :	1
+White carrot cake                                 :	1
+Fruit tart                                        :	1
+Beef hor fun                                      :	1
+Chocolate chip bread                              :	1
+Soya milk with grass jelly                        :	1
+Wine                                              :	1
+Onion bhaji                                       :	1
+Dark soy sauce chicken in claypot                 :	1
+Crystal dumpling                                  :	1
+Carrot cake with cream cheese                     :	1
+Beancurd dessert with toppings                    :	1
+Popiah                                            :	1
+Chicken feet                                      :	1
+Preserved egg                                     :	1
+Guava                                             :	1
+Espresso                                          :	1
+Hot and sour noodle soup                          :	1
+Chwee kway                                        :	1
+Ipoh hor fun                                      :	1
+Crispy fried fish skin                            :	1
+Char siew soh                                     :	1
+Pig's stomach soup                                :	1
+Chocolate tart                                    :	1
+Sweet potato porridge                             :	1
+Yakitori chicken                                  :	1
+Curry udon                                        :	1
+Plum                                              :	1
+Chinese style chicken and corn soup               :	1
+Boiled black chicken                              :	1
+Dragonfruit                                       :	1
+Beef ball kway teow soup                          :	1
+Grass jelly dessert with toppings                 :	1
+Chicken macaroni soup                             :	1
+Braised pig trotter with mushroom                 :	1
+Beef ball soup                                    :	1
+Stir fried garlic chives with prawn               :	1
+Black sesame paste                                :	1
+Pumpkin soup                                      :	1
+Thairu                                            :	1
+Soon kway                                         :	1
+Red wine chicken mee sua                          :	1
+Chocolate sundae                                  :	1
+Bread with cheese cubes                           :	1
+Roasted pork belly                                :	1
+Lor mee                                           :	1
+Xxl crispy fried chicken                          :	1
+Langsat                                           :	1
+Sambal goreng                                     :	1
+Cherry tomato                                     :	1
+Sup tulang                                        :	1
+Orange                                            :	1
+Coconut ice cream                                 :	1
+Sotong masak hitam squid cook with squid ink      :	1
+Sweet potato fries                                :	1
+Chocolate lava cake                               :	1
+Fried mantou                                      :	1
+Nasi minyak                                       :	1
+Duck rice                                         :	1
+Tau suan with dough fritters                      :	1
+Flavoured donut                                   :	1
+Fa cai in oyster sauce                            :	1
+Snowskin mooncake                                 :	1
+Strawberry shortcake                              :	1
+Pad thai                                          :	1
+Duck noodles soup                                 :	1
+Yam pau                                           :	1
+Roasted barley tea                                :	1
+Sweet and sour prawn                              :	1
+Winter melon and pork ribs soup                   :	1
+Bak kut teh                                       :	1
+Pasta vongole                                     :	1
+Quail egg                                         :	1
+Egg sambal                                        :	1
+Chia seeds                                        :	1
+Oatmeal with fruits                               :	1
+Chicken herbal soup                               :	1
+Barley drink                                      :	1
+Sesame seed ball                                  :	1
+Kuih lopes pulut                                  :	1
+Brinjal pachadi                                   :	1
+Pandan bread                                      :	1
+Deep fried soft-shell crab                        :	1
+Bottled milk tea                                  :	1
+Suan la fen                                       :	1
+Papaya salad                                      :	1
+Danish pastry                                     :	1
+Jam tart                                          :	1
+Water chestnut                                    :	1
+Braised egg in soya sauce                         :	1
+Banana chips                                      :	1
+Yam paste                                         :	1
+Ketupat                                           :	1
+Beef don                                          :	1
+Salted egg squid                                  :	1
+Fried baby sotong                                 :	1
+Spirits                                           :	1
+Pumpkin seed                                      :	1
+Boiled cauliflower                                :	1
+Cabbage soup with pork                            :	1
+Lontong with sayur lodeh                          :	1
+Chasoba                                           :	1
+Hot chocolate/coffee/chocolate ice blended drink with whipped cream:	1
+Soft serve cone                                   :	1
+Cheese and ham bun                                :	1
+Hokkien mee                                       :	1
+Soya sauce chicken noodles                        :	1
+Garlic bread                                      :	1
+Tofu soup with rice                               :	1
+Muah chee                                         :	1
+Seafood tom yum ban mian                          :	1
+Walnut                                            :	1
+Loveletter                                        :	1
+Roti john                                         :	1
+Kimchi fried rice                                 :	1
+Avocados                                          :	1
+Braised pork with black fungus                    :	1
+Grass jelly drink                                 :	1
+Vegetarian brown rice porridge                    :	1
+Putu piring                                       :	1
+Stir fried eggplant                               :	1
+Kuih dodol                                        :	1
+Fish ball soup                                    :	1
+Hong shao tofu                                    :	1
+Durian cake                                       :	1
+Blueberry                                         :	1
+Non food                                          :	1
+Tea leaf egg                                      :	1
+Chocolate biscuit                                 :	1
+Fruit salad                                       :	1
+Stir fried prawn with broccoli                    :	1
+Carrot soup with potato and pork ribs             :	1
+Fried fish masala                                 :	1
+Rasgula                                           :	1
+Stir fried udon                                   :	1
+Eggs benedict                                     :	1
+Stir fried fish                                   :	1
+Teriyaki chicken don                              :	1
+Kuih bangkit                                      :	1
+Stir fried spinach                                :	1
+Fried mock fish                                   :	1
+Kuih makmur                                       :	1
+Plain porridge                                    :	1
+Pineapple                                         :	1
+Pulled pork burger                                :	1
+Getuk ubi                                         :	1
+Boiled kampung chicken                            :	1
+Donut with cream filling                          :	1
+Salted egg yolk custard buns                      :	1
+Raisin                                            :	1
+Abok abok sago                                    :	1
+Marshmallow                                       :	1
+Xiao wan mian                                     :	1
+Salted egg                                        :	1
+Canned fruits                                     :	1
+Crepe cake                                        :	1
+Naengmyeon                                        :	1
+Lemon tart                                        :	1
+Kway chap                                         :	1
+Papaya                                            :	1
+Jjamppong                                         :	1
+Chawamushi                                        :	1
+Mee kuah                                          :	1
+Potato wedges                                     :	1
+Vegetable u mian                                  :	1
+Gingko nuts and beancurd soup                     :	1
+Stir fried pig's liver                            :	1
+Meatballs                                         :	1
+Tau huey                                          :	1
+Fried mushroom                                    :	1
+Cherries                                          :	1
+Ice longan/lychee                                 :	1
+Water apple                                       :	1
+Steamed crab                                      :	1
+Ear biscuit                                       :	1
+Wheatgrass drink                                  :	1
+Sa kei ma                                         :	1
+Soft boiled egg                                   :	1
+Achar                                             :	1
+Kuih ko swee                                      :	1
+Boonthi                                           :	1
+Pig trotter in vinegar                            :	1
+Chocolate eclair                                  :	1
+Stir fried pork                                   :	1
+Butterfly cookie                                  :	1
+Almond paste                                      :	1
+Blackberries                                      :	1
+Salted egg pork ribs                              :	1
+Cheese tart                                       :	1
+Mango sago pomelo                                 :	1
+Ma la xiang guo                                   :	1
+Cheesecake                                        :	1
+Tauhu goreng                                      :	1
+Brownies                                          :	1
+Butterfly fritter                                 :	1
+Vegetable briyani                                 :	1
+Tuna puff                                         :	1
+Mee siam                                          :	1
+Fishball                                          :	1
+Beef stomach noodles                              :	1
+Assam petai                                       :	1
+Grilled fish with pasta                           :	1
+Tomato and egg soup                               :	1
+Ciku                                              :	1
+Kacang pool                                       :	1
+Tepung bungkus                                    :	1
+Pesto pasta                                       :	1
+Bacon                                             :	1
+Grilled chicken salad                             :	1
+Spinach with trio eggs                            :	1
+Macaroon                                          :	1
+Kuih dadar                                        :	1
+Thunder tea rice                                  :	1
+Nasi kunyit                                       :	1
+Ang koo kueh                                      :	1
+Steamed spare ribs                                :	1
+Nasi goreng                                       :	1
+Biscuit with filling                              :	1
+White rice                                        :	1
+Chao sheng mian                                   :	1
+Americano                                         :	1
+Stir fried salted vegetable with minced beef      :	1
+Green chicken curry                               :	1
+Otah                                              :	1
+Bubur kanji                                       :	1
+Dry minced pork and mushroom noodles              :	1
+Pizza                                             :	1
+Calamari                                          :	1
+Spicy tapioca chips                               :	1
+Sweet potato                                      :	1
+Chicken rendang                                   :	1
+Gado gado                                         :	1
+Braised pig skin                                  :	1
+Pork chop western set                             :	1
+Wafer ice cream                                   :	1
+Black carrot cake                                 :	1
+Grilled fish with potato                          :	1
+Black pepper crab                                 :	1
+Red bean soup                                     :	1
+Cashew nut cookies                                :	1
+Strawberry                                        :	1
+Fried snow peas with prawn                        :	1
+Chocolate croissant                               :	1
+Crab stick                                        :	1
+Acai bowl                                         :	1
+Mango sticky rice                                 :	1
+Fried vegetable samosa                            :	1
+Rempah udang                                      :	1
+Agar-agar                                         :	1
+Rock melon                                        :	1
+Herbal jelly with sugar syrup                     :	1
+Fish head curry                                   :	1
+Stir fried asparagus with scallop                 :	1
+Kuih rose                                         :	1
+Takoyaki                                          :	1
+Chrysanthemum tea                                 :	1
+Ice limau                                         :	1
+Mangosteen                                        :	1
+Lotus paste with salted egg pastry                :	1
+Unagi don                                         :	1
+Digestive biscuit                                 :	1
+Nonya chap chye                                   :	1
+Stir fried doumiao                                :	1
+Stir fried cabbage with tanghoon                  :	1
+Duck with salted vegetable soup                   :	1
+Durian                                            :	1
+Hot chocolate                                     :	1
+Soft drink float                                  :	1
+Potato chips                                      :	1
+Baguette                                          :	1
+Mysorepak                                         :	1
+Stir fried nai bai                                :	1
+Scones                                            :	1
+Har gow                                           :	1
+Tauhu telur                                       :	1
+Chendol                                           :	1
+Pumpkin and sweet potato in sweetened coconut milk:	1
+Jalebi                                            :	1
+Duck porridge                                     :	1
+Sausage bun                                       :	1
+Butter cake                                       :	1
+Tiramisu                                          :	1
+Wanton soup                                       :	1
+Milo drink                                        :	1
+Muffin                                            :	1
+Grapefruit                                        :	1
+Chilli crab                                       :	1
+Ravioli                                           :	1
+Lobster roll                                      :	1
+Pork floss bun                                    :	1
+Shark fin soup                                    :	1
+Bubor cha cha                                     :	1
+Chives dumpling                                   :	1
+Hum sui kok                                       :	1
+Edamame                                           :	1
+Ice lolly                                         :	1
+Stewed taupok                                     :	1
+Bread pudding                                     :	1
+Mee chang kueh                                    :	1
+Cuttlefish porridge                               :	1
+Salted egg prawn                                  :	1
+Raspberry                                         :	1
+Ham and cheese sandwich                           :	1
+Sesame seed cookies                               :	1
+Shepherd's pie                                    :	1
+Ayam penyet with rice                             :	1
+Braised duck feet                                 :	1
+Roasted chestnut                                  :	1
+Mock abalone                                      :	1
+Ice soursop                                       :	1
+Bibimbap                                          :	1
+Mac and cheese                                    :	1
+Honey dew with sago                               :	1
+Mochi                                             :	1
+Horlick dinosaur                                  :	1
+Plain waffle                                      :	1
+Champagne                                         :	1
+Gyoza                                             :	1
+Herbal duck soup                                  :	1
+Canned tuna salad                                 :	1
+Lime                                              :	1
+Fish ball tanghoon soup                           :	1
+Kiwi                                              :	1
+Oyakodon                                          :	1
+Dry duck noodles                                  :	1
+Preserved vegetable and tofu soup                 :	1
+Chickpea curry                                    :	1
+Yu sheng                                          :	1
+Cooked jellyfish with sesame seed                 :	1
+Sesame roll                                       :	1
+Sashimi sushi                                     :	1
+Popcorn                                           :	1
+Dakgalbi with rice                                :	1
+Stir fried chye sim                               :	1
+Stir fried char siew noodles                      :	1
+Mushroom burger                                   :	1
+Caesar salad                                      :	1
+Rempeyek                                          :	1
+Horlicks                                          :	1
+Preserved plum                                    :	1
+Vadai with kacang hitam                           :	1
+Siu mai                                           :	1
+Braised pork rib noodles                          :	1
+Roasted duck                                      :	1
+Waffles with fillings                             :	1
+Beef stew soup                                    :	1
+Stir fried lady finger                            :	1
+Cupcake with icing                                :	1
+Century egg porridge                              :	1
+Dry chicken feet noodles                          :	1
+Vietnamese fresh spring roll                      :	1
+Yakitori chicken ball                             :	1
+Rambutan                                          :	1
+Kaya butter steamed bread                         :	1
+Jackfruit                                         :	1
+Chicken nugget                                    :	1
+Meatball pasta                                    :	1
+Seafood pancake                                   :	1
+Tempeh                                            :	1
+Pandan chiffon cake                               :	1
+Kidney mee sua soup                               :	1
+Stir fried ee fu noodles                          :	1
+Minced pork tofu soup                             :	1
+Lentils with rice                                 :	1
+Fried pomfret in tomato and coconut sauce         :	1
+Castella cake                                     :	1
+Idli                                              :	1
+Beef soup with buah keluak nuts                   :	1
+Seafood paella                                    :	1
+Lontong goreng                                    :	1
+Stir fried chicken                                :	1
+Miso soup                                         :	1
+Biscuit with fruits/nuts                          :	1
+Dry ban mian                                      :	1
+Mapo tofu                                         :	1
+Indian style beehoon goreng                       :	1
+Pomegranate                                       :	1
+Roasted mixed nuts                                :	1
+Stir fried celery with beef                       :	1
+Pineapple tart                                    :	1
+Shredded chicken and mushroom noodles             :	1
+Seafood soup                                      :	1
+Dried persimmon                                   :	1
+Sweet potato soup                                 :	1
+Focaccia bread                                    :	1
+Cuttlefish finger                                 :	1
+Bubur terigu                                      :	1
+Grape                                             :	1
+Lo han chai                                       :	1
+Char siew rice                                    :	1
+Tapioca with coconut milk                         :	1
+Chinese tea                                       :	1
+Fish ball noodles soup                            :	1
+Waxed duck                                        :	1
+Red bean cake                                     :	1
+Ikan bilis                                        :	1
+Fried tunghoon                                    :	1
+Apple strudel                                     :	1
+Pulut hitam                                       :	1
+Prawn tempura udon soup                           :	1
+Persimmon                                         :	1
+Apple crumble                                     :	1
+Steamed pork dumpling                             :	1
+Lychee                                            :	1
+Fried mock duck                                   :	1
+Swiss roll                                        :	1
+Eggplant curry                                    :	1
+Carbonara                                         :	1
+Hard boiled egg                                   :	1
+Kimchi pancake                                    :	1
+Fried prawn dumpling                              :	1
+Seaweed chicken                                   :	1
+Crayfish hor fun                                  :	1
+Lemon                                             :	1
+Waffle with ice cream                             :	1
+Grilled octopus                                   :	1
+Minced lamb curry with potato                     :	1
+Roasted suckling pig                              :	1
+Fried mee siam                                    :	1
+Hong kong egglet                                  :	1
+Salted egg yolk croissant                         :	1
+Teppanyaki chicken                                :	1
+Bandung                                           :	1
+Sambal kangkong                                   :	1
+Emping                                            :	1
+Chicken pongteh                                   :	1
+Fish soup                                         :	1
+Tutu kueh                                         :	1
+Pizza bun                                         :	1
+Fried spicy mussels                               :	1
+Seafood ee mee                                    :	1
+Nasi rawan                                        :	1
+Durian pancake                                    :	1
+Kim chi                                           :	1
+Raw oyster                                        :	1
+Mee rebus                                         :	1
+Pear                                              :	1
+Cheddar cheese                                    :	1
+Longan                                            :	1
+Braised beef stomach                              :	1
+Stir fried broccoli                               :	1
+Raisin bread                                      :	1
+Roasted full chicken                              :	1
+Peng kueh                                         :	1
+Butter crab                                       :	1
+Chicken rice                                      :	1
+Honey dew                                         :	1
+Steamed mantou                                    :	1
+Deep fried lemon chicken                          :	1
+Cheese bun                                        :	1
+Sambal clams                                      :	1
+Crayfish pasta                                    :	1
+Fried egg                                         :	1
+Putu mayam                                        :	1
+Plain water                                       :	1
+Lasagna                                           :	1
+Sambal sweet potato leaves                        :	1
+Mui fan                                           :	1
+Peanut soup                                       :	1
+Boiled clams                                      :	1
+Jam biscuit                                       :	1
+Fish ball noodles dry                             :	1
+Coleslaw                                          :	1
+Rasmalai                                          :	1
+Chocolate cake                                    :	1
+Apple pie                                         :	1
+Paru goreng                                       :	1
+Roti jala                                         :	1
+Dao xiao mian                                     :	1
+Chirashi don                                      :	1
+Mushroom and minced pork noodles soup             :	1
+Beef and radish soup                              :	1
+Chocolate burfi                                   :	1
+Ovaltine drink                                    :	1
+Dan dan noodles                                   :	1
+Sugar cane juice                                  :	1
+Korean spicy rice cake                            :	1
+Chicken sambal                                    :	2
+Youtiao                                           :	2
+Fried pomfret                                     :	2
+Risotto                                           :	2
+Green tea ice blended drink                       :	2
+Cream cracker                                     :	2
+Puff dessert                                      :	2
+Noodles in blackbean sauce                        :	2
+Fried tau kwa                                     :	2
+Packaged juice                                    :	2
+Daging rempah/daging masak merah                  :	2
+Chicken chop                                      :	2
+Rojak                                             :	2
+Poke bowl                                         :	2
+Cucumber                                          :	2
+Mango/durian pudding                              :	2
+Cereal                                            :	2
+Wanton/dumpling noodles soup                      :	2
+Creamy pasta                                      :	2
+Meat chops with fried rice                        :	2
+Barfi/sohn papadi                                 :	2
+Chinese kueh                                      :	2
+Green bean soup                                   :	2
+Baked mooncake                                    :	2
+Aglio olio                                        :	2
+Egg/tuna mayonnaise sandwich                      :	2
+Fried fish                                        :	2
+Assam fish/fish masak pedas                       :	2
+Peach                                             :	2
+Steamed fish                                      :	2
+Fried crab products                               :	2
+Bread roll                                        :	2
+Pho                                               :	2
+Cream soup                                        :	2
+Banana/walnut cake                                :	2
+Lor bak/nonya style simmered pork                 :	2
+Stir fried cabbage                                :	2
+Bhatura/puri                                      :	2
+Claypot ee mee noodles                            :	2
+Raisin bun                                        :	2
+Stir fried glass noodles                          :	2
+Carrot/yam cake                                   :	2
+Meat dumpling                                     :	2
+Ice cream                                         :	2
+Soft pretzel                                      :	2
+Fried luncheon meat                               :	2
+Flavoured milk                                    :	2
+Spicy beef soup with rice                         :	2
+Meat chops with spaghetti                         :	2
+Thai boat noodles                                 :	2
+Fried noodles                                     :	2
+Steamed egg                                       :	2
+Fried kway teow                                   :	2
+Braised duck                                      :	2
+Tangyuen                                          :	2
+Salmon don                                        :	2
+Kheema                                            :	2
+Beer                                              :	2
+Vegetable tempura                                 :	2
+Halwa                                             :	2
+Prawn noodles soup                                :	2
+Nasi lemak rice                                   :	2
+Kung po/szechuan chicken                          :	2
+Chocolate                                         :	2
+Egg tart                                          :	2
+Pig's liver/organ soup                            :	2
+Soft drink                                        :	2
+Deep fried spare ribs                             :	2
+Kuih lapis                                        :	2
+Tapioca cake                                      :	2
+Ice jelly                                         :	2
+Ham chi peng                                      :	2
+Hot and spicy soup                                :	2
+Soup with mutton                                  :	2
+Potato dishes                                     :	2
+Lotus root soup with pork ribs                    :	2
+Mushroom/with sea cucumber                        :	2
+Beehoon soup with mixed ingredients eg seafood    :	2
+Tikka                                             :	2
+Fried spring roll                                 :	2
+Wanton/shrimp dumpling noodles dry                :	2
+Fish tofu/cheese tofu                             :	2
+Omu rice/nasi pattaya                             :	2
+Ebi/tempura don                                   :	2
+Milo dinosaur                                     :	2
+Stir fried longbeans                              :	2
+Beef steak                                        :	2
+Stir fried bittergourd                            :	2
+Chee cheong fun                                   :	2
+Coffee/chocolate ice blended drink without whipped cream:	2
+Meat floss                                        :	2
+Green tea                                         :	2
+Ice kacang                                        :	2
+Chicken/mutton briyani                            :	2
+Peanut/walnut paste                               :	2
+Fried fishcake                                    :	2
+Pork porridge                                     :	2
+Spicy prawn                                       :	2
+Cultured drinks                                   :	2
+Deep fried battered prawn                         :	2
+Katsu don                                         :	2
+Rosti/rosti with sausage                          :	2
+Milkshake/smoothie                                :	2
+Steamed minced pork with fish/mushroom and preserved veg:	2
+Meat ball curry                                   :	2
+Steamed/stir fried tofu with minced pork          :	2
+Yong tau foo                                      :	2
+Herbal tea                                        :	2
+Barbecued/korean chicken                          :	2
+Iced lemon tea/teh o limau                        :	2
+Taiyaki                                           :	2
+Ham                                               :	2
+Chicken wings                                     :	2
+French fries                                      :	2
+Sotong/cuttlefish with spice                      :	2
+Char siew                                         :	2
+Seafood hor fun                                   :	2
+Nonya kueh                                        :	3
+Pong piah                                         :	3
+Spiced cauliflower                                :	3
+Beef noodles soup                                 :	3
+Dhansak/dhal curry/mixed vegetable kurma          :	3
+Instant noodles                                   :	3
+Barbecued spring chicken/grilled spiced chicken/ayam panggang:	3
+Tomato pasta                                      :	3
+Fried beehoon with ingredients                    :	3
+Korean bulgogi meat with rice                     :	3
+Glutinous rice                                    :	3
+Fresh fruit/vegetable juice                       :	3
+Soya milk                                         :	3
+Vietnamese baguette                               :	3
+Thai basil meat with rice                         :	3
+Instant coffee                                    :	3
+Brown rice                                        :	3
+Kopi o                                            :	3
+Stir fried beef                                   :	3
+Murtabak                                          :	3
+Plain milk                                        :	3
+Chicken/fish porridge                             :	3
+Stewed/braised mutton/dry mutton curry            :	3
+Korean ramen with meat                            :	3
+Cutlet                                            :	3
+Mee/beehoon soto/soto ayam                        :	3
+Fried rice                                        :	3
+Stewed/braised chicken                            :	3
+Ban mian/mee hoon kway                            :	3
+Mutton masala/curry with potato/spiced            :	3
+Muesli bar                                        :	3
+Fish beehoon soup                                 :	4
+Kebab/wrap                                        :	4
+Sushi roll                                        :	4
+Mini fish steamboat                               :	4
+Teh o/black tea                                   :	4
+Katsu curry rice                                  :	4
+Baked rice                                        :	4
+Laksa/curry noodles/tom yum noodle soup           :	4
+Cafe coffee with milk                             :	4
+Non-milk tea without topping                      :	4
+Milk tea with topping                             :	4
+Rice dumpling                                     :	4
+Satay                                             :	4
+White bread                                       :	4
+Sweet and sour meat                               :	4
+Wholemeal bread                                   :	4
+Non-milk tea with topping                         :	4
+Thosai                                            :	4
+Cheng tng/white fungus and longan soup/sea coconut:	4
+Fish burger                                       :	4
+Yoghurt                                           :	4
+Beef burger                                       :	5
+Sausage/taiwanese sausage                         :	5
+Beef/mutton with sauce                            :	5
+Toast                                             :	5
+Japanese ramen                                    :	6
+Curry puff/peanut puff                            :	6
+Meat roll                                         :	6
+Omelette                                          :	6
+Chicken/cheese burger                             :	6
+Milk tea without topping                          :	6
+Local coffee with milk                            :	6
+Tea with milk                                     :	6
+Chicken curry                                     :	7
+Jap bento set                                     :	8
+Fritter                                           :	8
+Pau                                               :	8
+Prata/chapati/naan                                :	8
+Economic rice/nasi padang                         :	8
+Bun                                               :	10
+Deep fried chicken                                :	17
+Grain salad                                       :	24
+Vegetable salad                                   :	24

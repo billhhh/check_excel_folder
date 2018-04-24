@@ -1,0 +1,210 @@
+VISUAL NAME
+	CATEGORY NAME
+		ITEM NAME
+--------------------------------------------------
+Beef burger: 
+	Burger
+		Beef burger with cheese
+		Hamburger
+	Fast food
+		Beef burger (fast food)
+		Beef burger with corn (fast food)
+		Beef burger with french fries (fast food)
+Beef noodles soup: 
+	Beef noodles
+		Beef noodles soup
+		Braised beef tendon noodles
+	Udon/soba
+		Beef udon soup
+Fish burger: 
+	Burger
+		Fish burger
+	Fast food
+		Fish burger (fast food)
+		Fish burger with corn (fast food)
+		Fish burger with french fries (fast food)
+Instant noodles: 
+	Instant noodles/ramyeon
+		Instant noodles with soup
+		Dry instant noodles
+	Noodles with pork
+		Hk style luncheon meat noodle
+Fried kway teow: 
+	Fried noodles
+		Fried kway teow
+	Vegetarian porridge/noodles
+		Fried vegetarian kway teow
+Deep fried chicken: 
+	Vegetarian mock meat
+		Deep fried mock chicken
+	Fast food
+		2 pc fried chicken (fast food)
+		3 pc fried chicken (fast food)
+		2 pc fried chicken with coleslaw (fast food)
+		2 pc fried chicken with coleslaw and mashed potato (fast food)
+		2 pc fried chicken with french fries (fast food)
+		2 pc fried chicken with french fries and coleslaw (fast food)
+		2 pc fried chicken with french fries and mashed potato (fast food)
+		2 pc fried chicken with mashed potato (fast food)
+		3 pc fried chicken with coleslaw (fast food)
+		3 pc fried chicken with coleslaw and mashed potato (fast food)
+		3 pc fried chicken with french fries (fast food)
+		3 pc fried chicken with french fries and coleslaw (fast food)
+		3 pc fried chicken with mashed potato (fast food)
+	Fried chicken
+		Deep fried chicken
+		Deep fried chicken wing
+		Shrimp paste chicken
+Ice jelly: 
+	Pudding/jelly
+		Aiyu jelly with toppings
+	Ice dessert
+		Ice jelly
+Fried beehoon with ingredients: 
+	Fried noodles
+		Fried beehoon
+		Fried beehoon with meat & egg
+	Vegetarian porridge/noodles
+		Vegetarian fried beehoon
+Chicken/cheese burger: 
+	Burger
+		Cheese burger
+		Chicken burger
+		Grilled chicken burger
+	Fast food
+		Chicken burger with corn (fast food)
+		Chicken burger with french fries (fast food)
+		Chicken burger (fast food)
+Stir fried cabbage: 
+	Stir fried vegetables
+		Stir fried cabbage
+	Braised vegetables
+		Braised chinese cabbage with pork
+Stir fried glass noodles: 
+	Korean noodles
+		Japchae (korean stir fried glass noodles)
+	Stir fried vegetables
+		Stir fried mixed vegetables with tunghoon
+Laksa/curry noodles/tom yum noodle soup: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Chicken curry noodles
+		Laksa
+		Penang laksa
+	Handmade noodles (e.g. ban mian)
+		Tom yum noodles soup
+Fried noodles: 
+	Fried noodles
+		Fried yellow noodles
+	Malay noodles
+		Mee goreng
+Beehoon soup with mixed ingredients eg seafood: 
+	Noodles with a mix of meat/seafood
+		Beehoon soup
+	Seafood/fishball noodles
+		Seafood beehoon soup
+Kuih lapis: 
+	Kueh
+		Rainbow kuih lapis
+	Cake
+		Baked kuih lapis
+Beef/mutton with sauce: 
+	Soup with beef
+		Beef goulash
+	Curry/rendang/pachadi
+		Mutton kurma
+		Beef rendang
+		Mutton rendang
+		Mutton vindaloo
+Tikka: 
+	Fish
+		Fish tikka
+	Chicken
+		Chicken tikka
+Bun: 
+	Bun with meat filling
+		Baked otah bun
+		Chicken and mushroom bun
+		Chicken curry bun
+		Dried shrimp bun
+		Tuna bun
+		Luncheon meat bun
+		Hot dog bun
+	Bun with non-meat filling
+		Custard bun
+		Kaya bun
+		Red bean bun
+Omu rice/nasi pattaya: 
+	Japanese curry/omu rice
+		Omurice
+	Malay rice dishes
+		Nasi pattaya
+Milk tea without topping: 
+	Bubble tea
+		Flavoured milk tea (eg caramel), less sugar, no topping
+		Flavoured milk tea (eg caramel), w sugar, no topping
+		Milk tea (eg regular, earl grey), less sugar, no topping
+		Milk tea (eg regular, earl grey), w sugar, no topping
+	Thai milk tea
+		Thai green milk tea
+		Thai milk tea
+Deep fried battered prawn: 
+	Tempura
+		Tempura prawn
+	Prawn
+		Deep fried battered prawn
+White bread: 
+	Bread slice/roll
+		White bread
+	Bread with spread/toast
+		White bread with peanut butter
+		White bread with jam
+		White bread with kaya and butter
+Sweet and sour meat: 
+	Pork
+		Sweet sour pork
+	Chicken
+		Sweet and sour chicken
+	Fish
+		Sweet and sour fish
+	Bacon/ham/luncheon meat
+		Sweet and sour luncheon meat
+Toast: 
+	Toast
+		Butter and sugar toast
+		Ham and cheese toast
+	Bread with spread/toast
+		Kaya and butter toast
+		Toast
+		Toast with butter
+Wholemeal bread: 
+	Bread slice/roll
+		Wholemeal bread
+	Bread with spread/toast
+		Wholemeal bread with jam
+		Wholemeal bread with kaya and butter
+		Wholemeal bread with peanut butter
+Fish tofu/cheese tofu: 
+	Tofu/beancurd
+		Fish tofu
+	Fishball/fishcake/fish paste
+		Cheese tofu
+Chicken wings: 
+	Fried chicken
+		Boneless chicken wings (original)
+	Chicken
+		Thai stuffed chicken wings
+Char siew: 
+	Pork
+		Char siew
+	Vegetarian mock meat
+		Mock char siew
+Chicken curry: 
+	Assam dishes
+		Assam chicken
+		Daging asam
+	Curry/rendang/pachadi
+		Ayam masak lemak cili padi
+		Chicken curry
+		Chicken korma
+		Chicken masala
+		Chicken opor

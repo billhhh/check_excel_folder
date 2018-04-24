@@ -1,0 +1,756 @@
+fruit_cake:Fruit cake
+fish_and_chips:Fish and chips
+stir_fried_celery_with_beef:Stir fried celery with beef
+fried_spicy_mussels:Fried spicy mussels
+chocolate_cake:Chocolate cake
+bak_kut_teh:Bak kut teh
+cutlet:Cutlet
+mee_siam:Mee siam
+rojak:Rojak
+thosai:Thosai
+ketupat:Ketupat
+meat_dumpling:Meat dumpling
+braised_pork_with_black_fungus:Braised pork with black fungus
+nasi_lemak_rice:Nasi lemak rice
+cheng_tng_white_fungus_and_longan_soup_sea_coconut:Cheng tng/white fungus and longan soup/sea coconut
+steamed_spare_ribs:Steamed spare ribs
+ginseng_chicken_soup:Ginseng chicken soup
+milo_dinosaur:Milo dinosaur
+chicken_herbal_soup:Chicken herbal soup
+shibuya_toast:Shibuya toast
+kuih_dadar:Kuih dadar
+taco:Taco
+preserved_egg:Preserved egg
+fish_ball_tanghoon_soup:Fish ball tanghoon soup
+deep_fried_soft_shell_crab:Deep fried soft-shell crab
+ma_la_xiang_guo:Ma la xiang guo
+sugar_cane_juice:Sugar cane juice
+beef_don:Beef don
+spirits:Spirits
+chocolate_sundae:Chocolate sundae
+fried_baby_sotong:Fried baby sotong
+lor_mee:Lor mee
+tea_with_milk:Tea with milk
+cultured_drinks:Cultured drinks
+century_egg_porridge:Century egg porridge
+otah:Otah
+mushroom_with_sea_cucumber:Mushroom/with sea cucumber
+egg_tuna_mayonnaise_sandwich:Egg/tuna mayonnaise sandwich
+steamed_crab:Steamed crab
+mushroom_burger:Mushroom burger
+popiah:Popiah
+fruit_tart:Fruit tart
+pho:Pho
+rice_cracker:Rice cracker
+cashew_nut_cookies:Cashew nut cookies
+tuna_puff:Tuna puff
+banana:Banana
+sa_kei_ma:Sa kei ma
+nasi_rawan:Nasi rawan
+chirashi_don:Chirashi don
+quail_egg:Quail egg
+plum:Plum
+bak_kwa:Bak kwa
+grain_salad:Grain salad
+char_siew:Char siew
+chicken_drumsticks:Chicken drumsticks
+xxl_crispy_fried_chicken:Xxl crispy fried chicken
+durian_pancake:Durian pancake
+lobster_roll:Lobster roll
+bingsu:Bingsu
+avocados:Avocados
+stir_fried_pork:Stir fried pork
+pig_trotter_in_vinegar:Pig trotter in vinegar
+beef_burger:Beef burger
+chilli_crab:Chilli crab
+potong_ice_cream:Potong ice cream
+fish_tofu_cheese_tofu:Fish tofu/cheese tofu
+mini_fish_steamboat:Mini fish steamboat
+rempeyek:Rempeyek
+fried_pork_chop:Fried pork chop
+fried_fishcake:Fried fishcake
+apple:Apple
+economic_rice_nasi_padang:Economic rice/nasi padang
+grilled_chicken_salad:Grilled chicken salad
+ondeh_ondeh:Ondeh ondeh
+hashbrown:Hashbrown
+chicken_cheese_burger:Chicken/cheese burger
+flavoured_donut:Flavoured donut
+taiyaki:Taiyaki
+chicken_pie:Chicken pie
+braised_pig_skin:Braised pig skin
+stir_fried_beef:Stir fried beef
+oatmeal_with_fruits:Oatmeal with fruits
+beef_ball_kway_teow_soup:Beef ball kway teow soup
+kim_chi:Kim chi
+boiled_black_chicken:Boiled black chicken
+barbecued_korean_chicken:Barbecued/korean chicken
+donut_with_cream_filling:Donut with cream filling
+bergedil:Bergedil
+lassi:Lassi
+soya_milk_with_grass_jelly:Soya milk with grass jelly
+stir_fried_udon:Stir fried udon
+cucumber:Cucumber
+assam_petai:Assam petai
+bo_luo_bao:Bo luo bao
+ayam_penyet_with_rice:Ayam penyet with rice
+raw_oyster:Raw oyster
+vegetable_salad:Vegetable salad
+chicken_and_mushroom_noodles_soup:Chicken and mushroom noodles soup
+champagne:Champagne
+curry_udon:Curry udon
+mushroom_and_minced_pork_noodles_soup:Mushroom and minced pork noodles soup
+chao_sheng_mian:Chao sheng mian
+stir_fried_asparagus_with_scallop:Stir fried asparagus with scallop
+chia_seeds:Chia seeds
+horlicks:Horlicks
+kacang_pool:Kacang pool
+fried_egg:Fried egg
+baked_rice:Baked rice
+kimchi_fried_rice:Kimchi fried rice
+coconut_water:Coconut water
+beef_noodles_soup:Beef noodles soup
+milk_tea_without_topping:Milk tea without topping
+shepherd_s_pie:Shepherd's pie
+duck_noodles_soup:Duck noodles soup
+braised_egg_in_soya_sauce:Braised egg in soya sauce
+mutton_masala_curry_with_potato_spiced:Mutton masala/curry with potato/spiced
+stir_fried_mixed_vegetable:Stir fried mixed vegetable
+calamari:Calamari
+sotong_ball:Sotong ball
+roti_jala:Roti jala
+peanut_walnut_paste:Peanut/walnut paste
+almond_paste:Almond paste
+pineapple:Pineapple
+apple_pie:Apple pie
+scrambled_egg:Scrambled egg
+scones:Scones
+churros:Churros
+kuih_rose:Kuih rose
+bubur_kanji:Bubur kanji
+deep_fried_lemon_chicken:Deep fried lemon chicken
+non_food:Non food
+beef_stew_soup:Beef stew soup
+raisin:Raisin
+dry_beef_noodles:Dry beef noodles
+beef_soup_with_buah_keluak_nuts:Beef soup with buah keluak nuts
+gyoza:Gyoza
+vegetable_tempura:Vegetable tempura
+tikka:Tikka
+brownies:Brownies
+pork_floss_bun:Pork floss bun
+roasted_pork_belly:Roasted pork belly
+yakitori_chicken_skin:Yakitori chicken skin
+pizza_bun:Pizza bun
+hot_chocolate_coffee_chocolate_ice_blended_drink_with_whipped_cream:Hot chocolate/coffee/chocolate ice blended drink with whipped cream
+soft_serve_cone:Soft serve cone
+castella_cake:Castella cake
+dhansak_dhal_curry_mixed_vegetable_kurma:Dhansak/dhal curry/mixed vegetable kurma
+steamed_sponge_cake:Steamed sponge cake
+stewed_braised_chicken:Stewed/braised chicken
+yam_pau:Yam pau
+steamed_mantou:Steamed mantou
+snowskin_mooncake:Snowskin mooncake
+pumpkin_seed:Pumpkin seed
+chickpea_curry:Chickpea curry
+muesli_bar:Muesli bar
+pau:Pau
+salmon_don:Salmon don
+mysorepak:Mysorepak
+wheatgrass_drink:Wheatgrass drink
+makhani_dal:Makhani dal
+beef_steak:Beef steak
+fried_crab_products:Fried crab products
+aglio_olio:Aglio olio
+muruku:Muruku
+fritter:Fritter
+deep_fried_battered_prawn:Deep fried battered prawn
+papaya:Papaya
+braised_mixed_vegetables:Braised mixed vegetables
+wafer_ice_cream:Wafer ice cream
+chives_dumpling:Chives dumpling
+longan:Longan
+langsat:Langsat
+bibimbap:Bibimbap
+peng_kueh:Peng kueh
+biscuit_with_fruits_nuts:Biscuit with fruits/nuts
+claypot_rice_with_chicken:Claypot rice with chicken
+grape:Grape
+seaweed_chicken:Seaweed chicken
+pulut_inti:Pulut inti
+peanut_candy:Peanut candy
+fried_pomfret:Fried pomfret
+dry_minced_pork_and_mushroom_noodles:Dry minced pork and mushroom noodles
+cooked_jellyfish_with_sesame_seed:Cooked jellyfish with sesame seed
+nonya_chap_chye:Nonya chap chye
+yu_sheng:Yu sheng
+meat_floss:Meat floss
+potato_wedges:Potato wedges
+kimchi_pancake:Kimchi pancake
+chicken_rice:Chicken rice
+curry_puff_peanut_puff:Curry puff/peanut puff
+gado_gado:Gado gado
+risotto:Risotto
+hard_boiled_egg:Hard boiled egg
+brinjal_pachadi:Brinjal pachadi
+instant_coffee:Instant coffee
+raspberry:Raspberry
+white_carrot_cake:White carrot cake
+boiled_clams:Boiled clams
+black_carrot_cake:Black carrot cake
+sesame_seed_ball:Sesame seed ball
+fried_mock_duck:Fried mock duck
+butter_crab:Butter crab
+stir_fried_prawn_with_broccoli:Stir fried prawn with broccoli
+dark_soy_sauce_chicken_in_claypot:Dark soy sauce chicken in claypot
+bun:Bun
+sushi_roll:Sushi roll
+fish_head_curry:Fish head curry
+stir_fried_glass_noodles:Stir fried glass noodles
+beef_ball_soup:Beef ball soup
+mapo_tofu:Mapo tofu
+sambal_sweet_potato_leaves:Sambal sweet potato leaves
+green_bean_cake:Green bean cake
+stir_fried_pig_s_liver:Stir fried pig's liver
+almond_croissant:Almond croissant
+thairu:Thairu
+coleslaw:Coleslaw
+fish_burger:Fish burger
+fish_ball_noodles_soup:Fish ball noodles soup
+mui_fan:Mui fan
+soup_with_mutton:Soup with mutton
+honey_dew_with_sago:Honey dew with sago
+chinese_tea:Chinese tea
+guava:Guava
+cheese_bun:Cheese bun
+crystal_dumpling:Crystal dumpling
+fried_fish_masala:Fried fish masala
+cereal:Cereal
+yam_paste:Yam paste
+tandoori_chicken:Tandoori chicken
+pineapple_tart:Pineapple tart
+kung_po_szechuan_chicken:Kung po/szechuan chicken
+non_milk_tea_without_topping:Non-milk tea without topping
+stewed_braised_mutton_dry_mutton_curry:Stewed/braised mutton/dry mutton curry
+spicy_tapioca_chips:Spicy tapioca chips
+pulut_hitam:Pulut hitam
+glutinous_rice:Glutinous rice
+apple_crumble:Apple crumble
+jjamppong:Jjamppong
+suan_la_fen:Suan la fen
+cuttlefish_finger:Cuttlefish finger
+egg_tart:Egg tart
+lor_bak_nonya_style_simmered_pork:Lor bak/nonya style simmered pork
+stir_fried_spinach:Stir fried spinach
+soon_kway:Soon kway
+canned_fruits:Canned fruits
+mee_rebus:Mee rebus
+baked_mooncake:Baked mooncake
+fried_rice:Fried rice
+kaya_butter_steamed_bread:Kaya butter steamed bread
+dry_duck_noodles:Dry duck noodles
+claypot_ee_mee_noodles:Claypot ee mee noodles
+chocolate_chip_bread:Chocolate chip bread
+beer:Beer
+emping:Emping
+eggs_benedict:Eggs benedict
+grilled_stingray_with_sambal:Grilled stingray with sambal
+fried_prawn_dumpling:Fried prawn dumpling
+stir_fried_lady_finger:Stir fried lady finger
+americano:Americano
+lontong_goreng:Lontong goreng
+ham_and_cheese_sandwich:Ham and cheese sandwich
+fried_vegetable_samosa:Fried vegetable samosa
+vadai_with_kacang_hitam:Vadai with kacang hitam
+stir_fried_fish:Stir fried fish
+ang_koo_kueh:Ang koo kueh
+crispy_fried_fish_skin:Crispy fried fish skin
+pumpkin_and_sweet_potato_in_sweetened_coconut_milk:Pumpkin and sweet potato in sweetened coconut milk
+iced_lemon_tea_teh_o_limau:Iced lemon tea/teh o limau
+meat_chops_with_spaghetti:Meat chops with spaghetti
+durian_cake:Durian cake
+poke_bowl:Poke bowl
+mango_durian_pudding:Mango/durian pudding
+chrysanthemum_tea:Chrysanthemum tea
+sweet_and_sour_prawn:Sweet and sour prawn
+fish_soup:Fish soup
+dry_chicken_feet_noodles:Dry chicken feet noodles
+waffles_with_fillings:Waffles with fillings
+roasted_duck:Roasted duck
+pad_thai:Pad thai
+herbal_tea:Herbal tea
+minced_lamb_curry_with_potato:Minced lamb curry with potato
+duck_with_salted_vegetable_soup:Duck with salted vegetable soup
+ham:Ham
+kuih_pie_tee:Kuih pie tee
+pak_tong_koh:Pak tong koh
+lontong_with_sayur_lodeh:Lontong with sayur lodeh
+mangosteen:Mangosteen
+putu_mayam:Putu mayam
+ravioli:Ravioli
+croissant:Croissant
+sotong_masak_hitam_squid_cook_with_squid_ink:Sotong masak hitam squid cook with squid ink
+stir_fried_garlic_chives_with_prawn:Stir fried garlic chives with prawn
+milo_drink:Milo drink
+indian_style_beehoon_goreng:Indian style beehoon goreng
+chicken_feet_noodles_soup:Chicken feet noodles soup
+korean_bulgogi_meat_with_rice:Korean bulgogi meat with rice
+vegetarian_prawn:Vegetarian prawn
+thai_basil_meat_with_rice:Thai basil meat with rice
+cheese_tart:Cheese tart
+plain_water:Plain water
+tapioca_cake:Tapioca cake
+seafood_tom_yum_ban_mian:Seafood tom yum ban mian
+pizza:Pizza
+cheesecake:Cheesecake
+soya_sauce_chicken_noodles:Soya sauce chicken noodles
+wholemeal_bread:Wholemeal bread
+fried_spring_roll:Fried spring roll
+halwa:Halwa
+edamame:Edamame
+plain_porridge:Plain porridge
+braised_intestine:Braised intestine
+flavoured_milk:Flavoured milk
+beef_bolognese:Beef bolognese
+eggplant_curry:Eggplant curry
+vietnamese_baguette:Vietnamese baguette
+cheddar_cheese:Cheddar cheese
+butterfly_cookie:Butterfly cookie
+mee_kuah:Mee kuah
+idli:Idli
+cheese_and_ham_bun:Cheese and ham bun
+rambutan:Rambutan
+soft_drink_float:Soft drink float
+ice_longan_lychee:Ice longan/lychee
+creamy_pasta:Creamy pasta
+chicken_chop:Chicken chop
+pomelo:Pomelo
+ice_jelly:Ice jelly
+sambal_kangkong:Sambal kangkong
+shark_fin_soup:Shark fin soup
+paru_goreng:Paru goreng
+korean_spicy_rice_cake:Korean spicy rice cake
+deep_fried_spare_ribs:Deep fried spare ribs
+lemon:Lemon
+plain_milk:Plain milk
+green_tea_ice_blended_drink:Green tea ice blended drink
+salted_egg_prawn:Salted egg prawn
+thai_boat_noodles:Thai boat noodles
+prawn_noodles_soup:Prawn noodles soup
+preserved_plum:Preserved plum
+carbonara:Carbonara
+oyster_meesua:Oyster meesua
+meat_roll:Meat roll
+dragonfruit:Dragonfruit
+watercress_with_pork_ribs_soup:Watercress with pork ribs soup
+stir_fried_char_siew_noodles:Stir fried char siew noodles
+winter_melon_and_pork_ribs_soup:Winter melon and pork ribs soup
+grass_jelly_drink:Grass jelly drink
+grilled_octopus:Grilled octopus
+boonthi:Boonthi
+xiao_wan_mian:Xiao wan mian
+barbecued_spare_ribs:Barbecued spare ribs
+pig_s_stomach_soup:Pig's stomach soup
+cuttlefish_porridge:Cuttlefish porridge
+tapioca_with_coconut_milk:Tapioca with coconut milk
+grapefruit:Grapefruit
+ebi_tempura_don:Ebi/tempura don
+mee_bandung:Mee bandung
+nasi_minyak:Nasi minyak
+fish_beehoon_soup:Fish beehoon soup
+marshmallow:Marshmallow
+braised_pork_ribs_dim_sum:Braised pork ribs dim sum
+kway_chap:Kway chap
+ipoh_hor_fun:Ipoh hor fun
+assam_fish_fish_masak_pedas:Assam fish/fish masak pedas
+french_toast:French toast
+fried_noodles:Fried noodles
+hot_and_sour_noodle_soup:Hot and sour noodle soup
+packaged_juice:Packaged juice
+roasted_barley_tea:Roasted barley tea
+tangyuen:Tangyuen
+pong_piah:Pong piah
+blueberry:Blueberry
+sotong_cuttlefish_with_spice:Sotong/cuttlefish with spice
+grilled_fish_with_potato:Grilled fish with potato
+duck_rice:Duck rice
+tomato_pasta:Tomato pasta
+coffee_bun:Coffee bun
+soft_boiled_egg:Soft boiled egg
+vegetarian_brown_rice_porridge:Vegetarian brown rice porridge
+butter_cake:Butter cake
+roasted_chestnut:Roasted chestnut
+fried_athirasam:Fried athirasam
+lamb_chop:Lamb chop
+cream_soup:Cream soup
+wanton_shrimp_dumpling_noodles_dry:Wanton/shrimp dumpling noodles dry
+kuih_makmur:Kuih makmur
+seafood_soup:Seafood soup
+braised_pig_trotter_with_mushroom:Braised pig trotter with mushroom
+potato_chips:Potato chips
+cupcake_with_icing:Cupcake with icing
+chicken_feet:Chicken feet
+chocolate:Chocolate
+fried_kway_teow:Fried kway teow
+dry_ban_mian:Dry ban mian
+sweet_potato_fries:Sweet potato fries
+tauhu_goreng:Tauhu goreng
+crayfish_pasta:Crayfish pasta
+crepe_cake:Crepe cake
+jam_tart:Jam tart
+pork_chop_western_set:Pork chop western set
+braised_duck:Braised duck
+seafood_ee_mee:Seafood ee mee
+miso_soup:Miso soup
+biscuit_with_filling:Biscuit with filling
+canned_tuna_salad:Canned tuna salad
+omelette:Omelette
+dakgalbi_with_rice:Dakgalbi with rice
+mac_and_cheese:Mac and cheese
+katsu_don:Katsu don
+fried_beehoon_with_ingredients:Fried beehoon with ingredients
+siu_mai:Siu mai
+acai_bowl:Acai bowl
+kuih_lopes_pulut:Kuih lopes pulut
+dao_xiao_mian:Dao xiao mian
+salted_egg_yolk_croissant:Salted egg yolk croissant
+seafood_pancake:Seafood pancake
+lo_han_chai:Lo han chai
+pomegranate:Pomegranate
+pulled_pork_burger:Pulled pork burger
+boiled_kampung_chicken:Boiled kampung chicken
+coconut_ice_cream:Coconut ice cream
+soft_drink:Soft drink
+kuih_bahulu:Kuih bahulu
+seafood_tom_yum_soup:Seafood tom yum soup
+preserved_vegetable_and_tofu_soup:Preserved vegetable and tofu soup
+satay:Satay
+ice_limau:Ice limau
+sweet_potato:Sweet potato
+fried_hong_kong_egg_noodles:Fried hong kong egg noodles
+stir_fried_broccoli:Stir fried broccoli
+boiled_cauliflower:Boiled cauliflower
+chicken_rendang:Chicken rendang
+salted_egg_squid:Salted egg squid
+fried_pomfret_in_tomato_and_coconut_sauce:Fried pomfret in tomato and coconut sauce
+salted_egg:Salted egg
+barley_drink:Barley drink
+satay_beehoon:Satay beehoon
+lasagna:Lasagna
+muffin:Muffin
+mixed_fruits:Mixed fruits
+sweet_and_sour_meat:Sweet and sour meat
+banana_walnut_cake:Banana/walnut cake
+herbal_jelly_with_sugar_syrup:Herbal jelly with sugar syrup
+sambal_clams:Sambal clams
+chocolate_tart:Chocolate tart
+meatballs:Meatballs
+noodles_in_blackbean_sauce:Noodles in blackbean sauce
+stir_fried_nai_bai:Stir fried nai bai
+fried_mock_fish:Fried mock fish
+walnut:Walnut
+spicy_prawn:Spicy prawn
+katsu_curry_rice:Katsu curry rice
+pandan_chiffon_cake:Pandan chiffon cake
+tauhu_telur:Tauhu telur
+white_rice:White rice
+tau_huey:Tau huey
+deep_fried_chicken:Deep fried chicken
+meat_chops_with_fried_rice:Meat chops with fried rice
+stir_fried_beansprouts:Stir fried beansprouts
+muah_chee:Muah chee
+ice_kacang:Ice kacang
+daging_rempah_daging_masak_merah:Daging rempah/daging masak merah
+chicken_curry:Chicken curry
+cherries:Cherries
+fried_tau_kwa:Fried tau kwa
+murtabak:Murtabak
+soya_milk:Soya milk
+kebab_wrap:Kebab/wrap
+croquette:Croquette
+macaroon:Macaroon
+peach:Peach
+lotus_paste_with_salted_egg_pastry:Lotus paste with salted egg pastry
+fried_mantou:Fried mantou
+teriyaki_chicken_don:Teriyaki chicken don
+rempah_udang:Rempah udang
+butterfly_fritter:Butterfly fritter
+focaccia_bread:Focaccia bread
+blackberries:Blackberries
+dan_dan_noodles:Dan dan noodles
+gingko_nuts_and_beancurd_soup:Gingko nuts and beancurd soup
+hong_shao_tofu:Hong shao tofu
+pear:Pear
+mango:Mango
+chicken_fish_porridge:Chicken/fish porridge
+prawn_tempura_udon_soup:Prawn tempura udon soup
+tutu_kueh:Tutu kueh
+waffle_with_ice_cream:Waffle with ice cream
+rice_dumpling:Rice dumpling
+tofu_soup_with_rice:Tofu soup with rice
+fish_ball_soup:Fish ball soup
+hokkien_mee:Hokkien mee
+chicken_pongteh:Chicken pongteh
+youtiao:Youtiao
+barbecued_spring_chicken_grilled_spiced_chicken_ayam_panggang:Barbecued spring chicken/grilled spiced chicken/ayam panggang
+naengmyeon:Naengmyeon
+apple_strudel:Apple strudel
+kaya_cake:Kaya cake
+chocolate_croissant:Chocolate croissant
+lotus_root_soup_with_pork_ribs:Lotus root soup with pork ribs
+braised_pork_rib_noodles:Braised pork rib noodles
+fried_luncheon_meat:Fried luncheon meat
+kuih_bangkit:Kuih bangkit
+bandung:Bandung
+spinach_with_trio_eggs:Spinach with trio eggs
+bread_with_cheese_cubes:Bread with cheese cubes
+plain_waffle:Plain waffle
+ovaltine_drink:Ovaltine drink
+mango_sago_pomelo:Mango sago pomelo
+kuih_ko_swee:Kuih ko swee
+kheema:Kheema
+sweet_potato_soup:Sweet potato soup
+fried_fish:Fried fish
+ice_soursop:Ice soursop
+pesto_pasta:Pesto pasta
+chicken_nugget:Chicken nugget
+jap_bento_set:Jap bento set
+wanton_dumpling_noodles_soup:Wanton/dumpling noodles soup
+korean_ramen_with_meat:Korean ramen with meat
+hot_chocolate:Hot chocolate
+bhatura_puri:Bhatura/puri
+carrot_soup_with_potato_and_pork_ribs:Carrot soup with potato and pork ribs
+fa_cai_in_oyster_sauce:Fa cai in oyster sauce
+rock_melon:Rock melon
+bread_pudding:Bread pudding
+seafood_tempura:Seafood tempura
+horlick_dinosaur:Horlick dinosaur
+savoury_crepe:Savoury crepe
+coffee_chocolate_ice_blended_drink_without_whipped_cream:Coffee/chocolate ice blended drink without whipped cream
+milkshake_smoothie:Milkshake/smoothie
+pandan_bread:Pandan bread
+chinese_kueh:Chinese kueh
+steamed_stir_fried_tofu_with_minced_pork:Steamed/stir fried tofu with minced pork
+mee_chang_kueh:Mee chang kueh
+stewed_taupok:Stewed taupok
+honey_dew:Honey dew
+non_milk_tea_with_topping:Non-milk tea with topping
+fried_mee_siam:Fried mee siam
+sausage_bun:Sausage bun
+duck_confit:Duck confit
+steamed_fish:Steamed fish
+strawberry:Strawberry
+grilled_fish_with_pasta:Grilled fish with pasta
+cereal_prawn:Cereal prawn
+tiramisu:Tiramisu
+meat_ball_curry:Meat ball curry
+bacon:Bacon
+getuk_ubi:Getuk ubi
+chicken_macaroni_soup:Chicken macaroni soup
+putu_piring:Putu piring
+okonomiyaki:Okonomiyaki
+stir_fried_cabbage:Stir fried cabbage
+sake:Sake
+beehoon_soup_with_mixed_ingredients_eg_seafood:Beehoon soup with mixed ingredients eg seafood
+spiced_cauliflower:Spiced cauliflower
+tea_leaf_egg:Tea leaf egg
+black_sesame_paste:Black sesame paste
+instant_noodles:Instant noodles
+peanut_soup:Peanut soup
+red_bean_soup:Red bean soup
+chicken_sambal:Chicken sambal
+seasoned_baby_octopus:Seasoned baby octopus
+fishball:Fishball
+fish_curry:Fish curry
+achar:Achar
+salted_egg_yolk_custard_buns:Salted egg yolk custard buns
+thunder_tea_rice:Thunder tea rice
+tau_suan_with_dough_fritters:Tau suan with dough fritters
+chasoba:Chasoba
+abok_abok_sago:Abok abok sago
+beef_mutton_with_sauce:Beef/mutton with sauce
+chocolate_eclair:Chocolate eclair
+steamed_egg:Steamed egg
+har_gow:Har gow
+yakitori_chicken_ball:Yakitori chicken ball
+sup_tulang:Sup tulang
+sashimi_sushi:Sashimi sushi
+kiwi:Kiwi
+mock_abalone:Mock abalone
+bubur_terigu:Bubur terigu
+raisin_bun:Raisin bun
+nasi_kunyit:Nasi kunyit
+nonya_kueh:Nonya kueh
+red_bean_cake:Red bean cake
+prata_chapati_naan:Prata/chapati/naan
+pork_porridge:Pork porridge
+garlic_bread:Garlic bread
+roasted_full_chicken:Roasted full chicken
+kuih_lapis:Kuih lapis
+hum_sui_kok:Hum sui kok
+green_tea:Green tea
+jam_biscuit:Jam biscuit
+water_apple:Water apple
+lime:Lime
+japanese_ramen:Japanese ramen
+steamed_minced_pork_with_fish_mushroom_and_preserved_veg:Steamed minced pork with fish/mushroom and preserved veg
+danish_pastry:Danish pastry
+strawberry_shortcake:Strawberry shortcake
+cream_cracker:Cream cracker
+tempeh:Tempeh
+ikan_bilis:Ikan bilis
+potato_dishes:Potato dishes
+papaya_salad:Papaya salad
+roti_john:Roti john
+raisin_bread:Raisin bread
+green_chicken_curry:Green chicken curry
+ice_lolly:Ice lolly
+stir_fried_eggplant:Stir fried eggplant
+stir_fried_chicken:Stir fried chicken
+digestive_biscuit:Digestive biscuit
+meatball_pasta:Meatball pasta
+laksa_curry_noodles_tom_yum_noodle_soup:Laksa/curry noodles/tom yum noodle soup
+swiss_roll:Swiss roll
+stir_fried_chye_sim:Stir fried chye sim
+hot_and_spicy_soup:Hot and spicy soup
+omu_rice_nasi_pattaya:Omu rice/nasi pattaya
+orange:Orange
+french_fries:French fries
+minced_pork_tofu_soup:Minced pork tofu soup
+durian:Durian
+carrot_yam_cake:Carrot/yam cake
+chwee_kway:Chwee kway
+agar_agar:Agar-agar
+grass_jelly_dessert_with_toppings:Grass jelly dessert with toppings
+bubor_cha_cha:Bubor cha cha
+chocolate_burfi:Chocolate burfi
+lemon_tart:Lemon tart
+green_bean_soup:Green bean soup
+jalebi:Jalebi
+yam_rice:Yam rice
+watermelon:Watermelon
+chendol:Chendol
+beancurd_dessert_with_toppings:Beancurd dessert with toppings
+toast:Toast
+cafe_coffee_with_milk:Cafe coffee with milk
+waxed_duck:Waxed duck
+spicy_beef_soup_with_rice:Spicy beef soup with rice
+drunken_prawn:Drunken prawn
+vietnamese_fresh_spring_roll:Vietnamese fresh spring roll
+sesame_seed_cookies:Sesame seed cookies
+beef_stomach_noodles:Beef stomach noodles
+roasted_mixed_nuts:Roasted mixed nuts
+loveletter:Loveletter
+chicken_mutton_briyani:Chicken/mutton briyani
+boneless_sardines:Boneless sardines
+local_coffee_with_milk:Local coffee with milk
+kidney_mee_sua_soup:Kidney mee sua soup
+persimmon:Persimmon
+cherry_tomato:Cherry tomato
+rasgula:Rasgula
+wine:Wine
+deep_fried_wanton:Deep fried wanton
+takoyaki:Takoyaki
+espresso:Espresso
+yoghurt:Yoghurt
+lychee:Lychee
+fresh_fruit_vegetable_juice:Fresh fruit/vegetable juice
+popcorn:Popcorn
+tomato_and_egg_soup:Tomato and egg soup
+water_chestnut:Water chestnut
+vegetable_briyani:Vegetable briyani
+stir_fried_bittergourd:Stir fried bittergourd
+teppanyaki_beef:Teppanyaki beef
+soft_pretzel:Soft pretzel
+chocolate_biscuit:Chocolate biscuit
+sesame_roll:Sesame roll
+braised_beef_stomach:Braised beef stomach
+sweet_potato_porridge:Sweet potato porridge
+rosti_rosti_with_sausage:Rosti/rosti with sausage
+herbal_duck_soup:Herbal duck soup
+chinese_style_chicken_and_corn_soup:Chinese style chicken and corn soup
+dry_prawn_noodles:Dry prawn noodles
+milk_tea_with_topping:Milk tea with topping
+oyakodon:Oyakodon
+rice_kheer:Rice kheer
+teh_o_black_tea:Teh o/black tea
+fruit_salad:Fruit salad
+chicken_wings:Chicken wings
+hot_plate_tofu:Hot plate tofu
+jackfruit:Jackfruit
+lentils_with_rice:Lentils with rice
+salted_egg_pork_ribs:Salted egg pork ribs
+kuih_dodol:Kuih dodol
+mochi:Mochi
+shredded_chicken_and_mushroom_noodles:Shredded chicken and mushroom noodles
+puff_dessert:Puff dessert
+braised_duck_feet:Braised duck feet
+red_wine_chicken_mee_sua:Red wine chicken mee sua
+cabbage_soup_with_pork:Cabbage soup with pork
+baguette:Baguette
+fried_mushroom:Fried mushroom
+ham_chi_peng:Ham chi peng
+chocolate_lava_cake:Chocolate lava cake
+mango_sticky_rice:Mango sticky rice
+pig_s_liver_organ_soup:Pig's liver/organ soup
+stir_fried_ee_fu_noodles:Stir fried ee fu noodles
+stir_fried_doumiao:Stir fried doumiao
+mee_beehoon_soto_soto_ayam:Mee/beehoon soto/soto ayam
+white_bread:White bread
+kopi_o:Kopi o
+almond_jelly_dessert:Almond jelly dessert
+nasi_tomato:Nasi tomato
+rasmalai:Rasmalai
+seafood_hor_fun:Seafood hor fun
+egg_sambal:Egg sambal
+stir_fried_salted_vegetable_with_minced_beef:Stir fried salted vegetable with minced beef
+crayfish_hor_fun:Crayfish hor fun
+stir_fried_longbeans:Stir fried longbeans
+nasi_goreng:Nasi goreng
+onion_bhaji:Onion bhaji
+stir_fried_cabbage_with_tanghoon:Stir fried cabbage with tanghoon
+dried_persimmon:Dried persimmon
+hoon_kuih:Hoon kuih
+seafood_paella:Seafood paella
+duck_porridge:Duck porridge
+pumpkin_soup:Pumpkin soup
+banana_chips:Banana chips
+hong_kong_egglet:Hong kong egglet
+red_ruby_with_coconut_milk:Red ruby with coconut milk
+wanton_soup:Wanton soup
+fish_ball_noodles_dry:Fish ball noodles dry
+bottled_milk_tea:Bottled milk tea
+black_pepper_crab:Black pepper crab
+chawamushi:Chawamushi
+bread_roll:Bread roll
+crab_stick:Crab stick
+ear_biscuit:Ear biscuit
+beef_hor_fun:Beef hor fun
+roasted_suckling_pig:Roasted suckling pig
+stir_fried_kailan_with_meat:Stir fried kailan with meat
+teppanyaki_chicken:Teppanyaki chicken
+chee_cheong_fun:Chee cheong fun
+stir_fried_cuttlefish_with_chilli:Stir fried cuttlefish with chilli
+yakitori_chicken:Yakitori chicken
+yong_tau_foo:Yong tau foo
+ciku:Ciku
+char_siew_rice:Char siew rice
+char_siew_soh:Char siew soh
+ice_cream:Ice cream
+fried_snow_peas_with_prawn:Fried snow peas with prawn
+fried_tunghoon:Fried tunghoon
+caesar_salad:Caesar salad
+barfi_sohn_papadi:Barfi/sohn papadi
+paper_wrapped_chicken:Paper wrapped chicken
+pasta_vongole:Pasta vongole
+carrot_cake_with_cream_cheese:Carrot cake with cream cheese
+sausage_taiwanese_sausage:Sausage/taiwanese sausage
+vegetable_u_mian:Vegetable u mian
+steamed_pork_dumpling:Steamed pork dumpling
+tepung_bungkus:Tepung bungkus
+ban_mian_mee_hoon_kway:Ban mian/mee hoon kway
+unagi_don:Unagi don
+mashed_potato:Mashed potato
+sambal_goreng:Sambal goreng
+brown_rice:Brown rice
+beef_and_radish_soup:Beef and radish soup

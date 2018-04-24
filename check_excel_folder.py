@@ -6,8 +6,8 @@ import numpy as np
 
 # params
 NUM_ROW = 1200;
-excel_path = './excel/4_H365_Foods_for_LARC_HPB_Updated_20180422.xls';
-DATA_PATH_ROOT = 'D:/dataset/FoodAI/Bill_Workspace/top50_confuse/FoodAI_756_20180422/val';
+excel_path = './excel/5_H365_Foods_for_LARC_HPB_Updated_20180422.xls';
+DATA_PATH_ROOT = 'D:/share/FoodAI_756_20180422/val';
 
 # read xls file
 # 4, 18, 22 cols

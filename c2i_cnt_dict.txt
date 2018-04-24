@@ -1,0 +1,154 @@
+CATEGORY NAME                                     :	#ITEMS
+------------------------------------------------------------
+Cheese                                            :	1
+Pizza                                             :	1
+Plain water                                       :	1
+Non food                                          :	1
+Tomato                                            :	1
+Rojak                                             :	2
+Thai dessert                                      :	2
+Thai milk tea                                     :	2
+Meat floss                                        :	2
+Preserved vegetables (e.g. achar)                 :	2
+Tempeh                                            :	2
+Vietnamese noodles                                :	2
+Milkshake/smoothie                                :	2
+Soup with duck                                    :	2
+Noodles with a mix of meat/seafood                :	2
+Toast                                             :	2
+Vegetarian porridge/noodles                       :	3
+Murtabak                                          :	3
+Claypot rice/noodles                              :	3
+Thai noodles                                      :	3
+Soup with offals                                  :	3
+Mushroom                                          :	3
+Pie                                               :	3
+Cultured drink                                    :	3
+Yong tau fu/ma la xiang guo                       :	3
+Cereals/oats                                      :	3
+Soup with chicken                                 :	3
+Dried fruit                                       :	3
+Cutlet                                            :	3
+Soft drink                                        :	3
+Mooncake                                          :	3
+Soup without meat                                 :	3
+Korean noodles                                    :	3
+Thai rice dishes                                  :	3
+Cream soup (e.g. mushroom soup)                   :	3
+Spicy soup                                        :	3
+Fried rice                                        :	3
+Briyani                                           :	3
+Muesli bar                                        :	3
+Soup with mutton                                  :	3
+Ice blended drink                                 :	4
+Tempura                                           :	4
+Assam dishes                                      :	4
+Croissant                                         :	4
+Prawn noodles                                     :	4
+Candy/chocolate                                   :	4
+Rice dumpling                                     :	4
+Offal                                             :	4
+Popiah/spring roll                                :	4
+Rice with chicken/meat/seafood                    :	4
+Grain/fruit bowls (e.g. thunder tea rice, acai bowl):	4
+Baked rice                                        :	4
+Wanton/dumpling noodles                           :	4
+Carrot/yam cake                                   :	4
+Glutinous rice                                    :	4
+Beans/dal                                         :	4
+Soya milk/soya beancurd                           :	5
+Udon/soba                                         :	5
+Seafood                                           :	5
+Fried dimsum/dumpling                             :	5
+Sushi/gimbap                                      :	5
+Braised vegetables                                :	5
+Dessert paste                                     :	5
+Fries/wedges                                      :	5
+Hor fun                                           :	5
+Instant noodles/ramyeon                           :	5
+Soup with beef                                    :	5
+Nuts/seeds                                        :	5
+Milk                                              :	5
+Japanese snacks                                   :	5
+Mutton/lamb                                       :	5
+Japanese curry/omu rice                           :	5
+Beef noodles                                      :	5
+Kebab/wrap/taco                                   :	5
+Yoghurt                                           :	5
+Fishball/fishcake/fish paste                      :	6
+Juice                                             :	6
+Beef                                              :	6
+Donut/pretzel                                     :	6
+Ramen                                             :	6
+Fried fish                                        :	6
+Noodles with pork                                 :	6
+Pork ribs/spare ribs                              :	6
+Duck                                              :	6
+Western pastry                                    :	6
+Bacon/ham/luncheon meat                           :	6
+Cauliflower/broccoli                              :	6
+Vegetarian mock meat                              :	6
+Alcohol                                           :	6
+Plain/flavoured rice                              :	7
+Indian snacks                                     :	7
+Satay/yakitori                                    :	7
+Fried chicken                                     :	7
+Crab                                              :	7
+Chips/popcorn                                     :	7
+Tart                                              :	7
+Potato/sweet potato                               :	7
+Asian drink                                       :	7
+Ice cream                                         :	8
+Indian dessert                                    :	8
+Japanese bento set                                :	8
+Economic rice/nasi padang                         :	8
+Sandwich                                          :	8
+Soup with fish/seafood                            :	8
+Handmade noodles (e.g. ban mian)                  :	8
+Malted/chocolate drink                            :	8
+Prawn                                             :	8
+Burger                                            :	8
+Fish                                              :	9
+Pudding/jelly                                     :	9
+Malay noodles                                     :	9
+Soup with pork                                    :	9
+Ice dessert                                       :	9
+Fried noodles                                     :	9
+Chicken/duck noodles                              :	9
+Bun with non-meat filling                         :	9
+Chinese pastry/snacks                             :	10
+Steamed dimsum/dumpling                           :	10
+Seafood/fishball noodles                          :	10
+Puff                                              :	10
+Bread slice/roll                                  :	10
+Waffle/pancake/crepe                              :	10
+Korean rice dishes                                :	10
+Noodles in sauce/gravy (e.g. dandan mian, laksa)  :	11
+Tofu/beancurd                                     :	11
+Octopus/squid/cuttlefish                          :	11
+Malay rice dishes                                 :	11
+Sausage/meat roll                                 :	11
+Bun with meat filling                             :	11
+Japanese don                                      :	11
+Pau/mantou                                        :	12
+Bread with spread/toast                           :	12
+Porridge                                          :	12
+Biscuits                                          :	13
+Fritters (e.g. you tiao)                          :	13
+Pork                                              :	13
+Indian bread (e.g. prata)                         :	14
+Bubble tea                                        :	16
+Pasta                                             :	17
+Western food                                      :	17
+Coffee                                            :	18
+Dessert soup                                      :	18
+Egg/egg-based dishes                              :	19
+Tea                                               :	20
+Cake                                              :	21
+Fast food                                         :	22
+Stir fried vegetables                             :	23
+Curry/rendang/pachadi                             :	25
+Chicken                                           :	27
+Kueh                                              :	32
+Fruits                                            :	40
+Salad                                             :	58

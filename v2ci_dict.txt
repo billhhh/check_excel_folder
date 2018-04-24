@@ -1,0 +1,2714 @@
+VISUAL NAME
+	CATEGORY NAME
+		ITEM NAME
+--------------------------------------------------
+Lassi: 
+	Cultured drink
+		Lassi
+Almond jelly dessert: 
+	Pudding/jelly
+		Almond jelly dessert
+Makhani dal: 
+	Beans/dal
+		Makhani dal
+Kacang pool: 
+	Beans/dal
+		Kacang pool
+Pulut inti: 
+	Kueh
+		Pulut inti
+Watercress with pork ribs soup: 
+	Soup with pork
+		Watercress with pork ribs soup
+Green bean cake: 
+	Chinese pastry/snacks
+		Green bean cake
+Fish beehoon soup: 
+	Seafood/fishball noodles
+		Deep fried fish beehoon soup with evaporated milk
+		Sliced fish beehoon soup without evaporated milk
+		Deep fried fish beehoon soup without evaporated milk
+		Sliced fish beehoon soup with evaporated milk
+Watermelon: 
+	Fruits
+		Watermelon
+Chicken sambal: 
+	Chicken
+		Ayam masak merah
+		Chicken sambal
+Bak kwa: 
+	Chinese pastry/snacks
+		Bak kwa
+Peanut candy: 
+	Candy/chocolate
+		Peanut candy
+Teppanyaki beef: 
+	Beef
+		Teppanyaki beef
+French toast: 
+	Bread with spread/toast
+		French toast
+Ginseng chicken soup: 
+	Soup with chicken
+		Korean ginseng chicken soup
+Croquette: 
+	Chicken
+		Chicken croquette
+Stir fried udon: 
+	Udon/soba
+		Yaki udon with chicken
+Seasoned baby octopus: 
+	Octopus/squid/cuttlefish
+		Seasoned baby octopus
+Red ruby with coconut milk: 
+	Thai dessert
+		Red ruby with coconut milk
+Chicken feet noodles soup: 
+	Chicken/duck noodles
+		Chicken feet noodles soup
+Taco: 
+	Kebab/wrap/taco
+		Taco
+Kaya cake: 
+	Cake
+		Kaya cake
+Youtiao: 
+	Fritters (e.g. you tiao)
+		Fried you tiao with paste
+		You tiao
+Braised pork ribs dim sum: 
+	Pork ribs/spare ribs
+		Braised pork ribs with black bean sauce
+Mango: 
+	Fruits
+		Mango
+Fried pomfret: 
+	Fried fish
+		Fried white pomfret
+		Pomfret tandoori
+Mashed potato: 
+	Potato/sweet potato
+		Mashed potato
+Sake: 
+	Alcohol
+		Sake
+Risotto: 
+	Western food
+		Mushroom risotto
+		Seafood risotto
+Chicken and mushroom noodles soup: 
+	Chicken/duck noodles
+		Chicken and mushroom noodles soup
+Fried athirasam: 
+	Donut/pretzel
+		Fried athirasam
+Prawn noodles soup: 
+	Prawn noodles
+		Penang prawn noodles
+		Prawn noodles soup
+Dry beef noodles: 
+	Beef noodles
+		Dry beef noodles
+Pak tong koh: 
+	Kueh
+		Pak tong koh
+Banana/walnut cake: 
+	Cake
+		Banana cake
+		Walnut cake
+Savoury crepe: 
+	Waffle/pancake/crepe
+		Savoury crepe (e.g. ham and cheese crepe)
+Hoon kuih: 
+	Kueh
+		Hoon kuih
+Beef burger: 
+	Burger
+		Beef burger with cheese
+		Hamburger
+	Fast food
+		Beef burger (fast food)
+		Beef burger with corn (fast food)
+		Beef burger with french fries (fast food)
+Mee bandung: 
+	Malay noodles
+		Mee bandung
+Green tea ice blended drink: 
+	Ice blended drink
+		Green tea ice blended drink, no whipped cream
+		Green tea ice blended drink, with whipped cream
+Rice cracker: 
+	Biscuits
+		Rice cracker
+Apple: 
+	Fruits
+		Apple
+Fruit cake: 
+	Cake
+		Fruit cake
+Lontong with sayur lodeh: 
+	Malay rice dishes
+		Lontong with sayur lodeh
+Nonya kueh: 
+	Kueh
+		Kuih salat
+		Kuih talam
+		Pulut serikaya
+Fish and chips: 
+	Western food
+		Fish and chips
+Grain salad: 
+	Salad
+		Grain salad with 3 toppings in cream-based dressing
+		Grain salad with 3 toppings in oil-based dressing
+		Grain salad with 4 toppings in cream-based dressing
+		Grain salad with 4 toppings in oil-based dressing
+		Grain salad with 3 toppings and chicken + egg in cream-based dressing
+		Grain salad with 3 toppings and chicken + egg in oil-based dressing
+		Grain salad with 3 toppings and chicken in cream-based dressing
+		Grain salad with 3 toppings and chicken in oil-based dressing
+		Grain salad with 3 toppings and egg in cream-based dressing
+		Grain salad with 3 toppings and egg oil-based dressing
+		Grain salad with 3 toppings and fish + egg in cream-based dressing
+		Grain salad with 3 toppings and fish + egg in oil-based dressing
+		Grain salad with 3 toppings and fish in cream-based dressing
+		Grain salad with 3 toppings and fish in oil-based dressing
+		Grain salad with 4 toppings and chicken + egg in cream-based dressing
+		Grain salad with 4 toppings and chicken + egg in oil-based dressing
+		Grain salad with 4 toppings and chicken in cream-based dressing
+		Grain salad with 4 toppings and chicken in oil-based dressing
+		Grain salad with 4 toppings and egg in cream-based dressing
+		Grain salad with 4 toppings and egg in oil-based dressing
+		Grain salad with 4 toppings and fish + egg in cream-based dressing
+		Grain salad with 4 toppings and fish + egg in oil-based dressing
+		Grain salad with 4 toppings and fish in cream-based dressing
+		Grain salad with 4 toppings and fish in oil-based dressing
+Bingsu: 
+	Ice dessert
+		Bingsu with fruits (shaved ice dessert with fruits)
+Vegetarian prawn: 
+	Vegetarian mock meat
+		Vegetarian prawn
+Boneless sardines: 
+	Fish
+		Boneless sardines
+Bergedil: 
+	Potato/sweet potato
+		Bergedil
+Pong piah: 
+	Chinese pastry/snacks
+		Pong piah
+		Tau sar piah
+		Wife pastry
+Sotong ball: 
+	Octopus/squid/cuttlefish
+		Sotong ball
+Claypot rice with chicken: 
+	Claypot rice/noodles
+		Claypot rice with chicken
+Duck confit: 
+	Duck
+		Duck confit
+Cream cracker: 
+	Biscuits
+		Cream cracker, sugared
+		Cream cracker, wholemeal
+Oyster meesua: 
+	Seafood/fishball noodles
+		Oyster meesua
+Churros: 
+	Western pastry
+		Churros
+Hum sui kok: 
+	Steamed dimsum/dumpling
+		Hum sui kok
+Kuih bahulu: 
+	Kueh
+		Kuih bahulu
+Noodles in blackbean sauce: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Jajangmyeon (noodles in black bean sauce)
+		Zha jiang mian (noodles with soybean paste)
+Fish curry: 
+	Curry/rendang/pachadi
+		Fish curry
+Fried tau kwa: 
+	Tofu/beancurd
+		Fried tau kwa
+		Tau kwa bao
+Packaged juice: 
+	Juice
+		Packaged juice, no sugar added (e.g. orange juice)
+		Packaged juice, with added sugar (e.g. orange juice)
+Almond croissant: 
+	Croissant
+		Almond croissant
+Steamed sponge cake: 
+	Cake
+		Steamed sponge cake
+Yakitori chicken skin: 
+	Satay/yakitori
+		Yakitori chicken skin
+Stir fried beansprouts: 
+	Stir fried vegetables
+		Stir fried beansprouts
+Braised mixed vegetables: 
+	Braised vegetables
+		Braised mixed vegetables
+Ice lolly: 
+	Ice cream
+		Ice lolly
+Rock melon: 
+	Fruits
+		Rock melon
+Daging rempah/daging masak merah: 
+	Beef
+		Daging masak merah
+		Daging rempah
+Hashbrown: 
+	Fries/wedges
+		Hashbrown
+Drunken prawn: 
+	Prawn
+		Drunken prawn
+Pomelo: 
+	Fruits
+		Pomelo
+Chicken chop: 
+	Western food
+		Chicken chop
+		Chicken chop western set
+Okonomiyaki: 
+	Japanese snacks
+		Okonomiyaki
+Muruku: 
+	Indian snacks
+		Muruku
+Coconut water: 
+	Asian drink
+		Coconut water
+Carrot/yam cake: 
+	Carrot/yam cake
+		Fried plain carrot cake
+		Yam cake
+Lamb chop: 
+	Western food
+		Lamb chop
+Chicken/fish porridge: 
+	Porridge
+		Chicken porridge
+		Fish porridge
+		Fried fish porridge
+Kebab/wrap: 
+	Kebab/wrap/taco
+		Beef kebab wrapped with bread
+		Chicken kebab wrapped with bread
+		Grilled chicken wrap
+		Mutton kebab wrapped with bread
+Spiced cauliflower: 
+	Cauliflower/broccoli
+		Cauliflower masala
+		Potato and cauliflower masala
+		Spicy stir fried cauliflower
+Kuih pie tee: 
+	Kueh
+		Kuih pie tee
+Chicken pie: 
+	Pie
+		Chicken pie
+Jjamppong: 
+	Korean noodles
+		Jjamppong (korean spicy seafood soup noodles)
+Rojak: 
+	Rojak
+		Chinese rojak
+		Indian rojak
+Chicken drumsticks: 
+	Fried chicken
+		Korean original fried chicken
+Stir fried kailan with meat: 
+	Stir fried vegetables
+		Stir fried kailan with meat
+Katsu don: 
+	Japanese don
+		Pork katsu don
+		Chicken katsu don
+Edamame: 
+	Beans/dal
+		Edamame
+Seafood tempura: 
+	Tempura
+		Taiwanese tempura (tian bu la)
+Scrambled egg: 
+	Egg/egg-based dishes
+		Scrambled egg
+Char siew rice: 
+	Rice with chicken/meat/seafood
+		Char siew rice
+Grilled stingray with sambal: 
+	Fish
+		Grilled stingray with sambal
+Poke bowl: 
+	Grain/fruit bowls (e.g. thunder tea rice, acai bowl)
+		Salmon pok¨¦ bowl
+		Tuna pok¨¦ bowl
+Fried pork chop: 
+	Western food
+		Fried pork chop
+Braised intestine: 
+	Offal
+		Braised intestine
+Cucumber: 
+	Salad
+		Cucumber
+		Japanese cucumber
+Nasi tomato: 
+	Malay rice dishes
+		Nasi tomato
+Steamed/stir fried tofu with minced pork: 
+	Tofu/beancurd
+		Steamed tofu with minced pork
+		Stir fried tofu with minced pork
+Raspberry: 
+	Fruits
+		Raspberry
+Seafood tom yum soup: 
+	Spicy soup
+		Seafood tom yum soup
+Fried tunghoon: 
+	Fried noodles
+		Fried tunghoon
+Fried hong kong egg noodles: 
+	Fried noodles
+		Fried hong kong egg noodles
+Beef bolognese: 
+	Pasta
+		Beef bolognese
+Banana: 
+	Fruits
+		Banana
+Barbecued spare ribs: 
+	Pork ribs/spare ribs
+		Barbecued spare ribs
+Yam rice: 
+	Plain/flavoured rice
+		Yam rice
+Mango/durian pudding: 
+	Pudding/jelly
+		Durian pudding
+		Mango pudding
+Shibuya toast: 
+	Bread with spread/toast
+		Shibuya toast
+Rice kheer: 
+	Porridge
+		Rice kheer
+Yam paste: 
+	Dessert paste
+		Yam paste
+Cereal: 
+	Cereals/oats
+		Cereal
+		Non-wholegrain cereal
+Wanton/dumpling noodles soup: 
+	Wanton/dumpling noodles
+		Soup shrimp dumpling noodles
+		Wanton noodles soup
+White carrot cake: 
+	Carrot/yam cake
+		White carrot cake
+French fries: 
+	Fries/wedges
+		French fries
+		Truffle fries
+Meat chops with fried rice: 
+	Western food
+		Chicken chop with fried rice
+		Pork chop with fried rice
+Fruit tart: 
+	Tart
+		Fruit tart
+Beef hor fun: 
+	Hor fun
+		Beef hor fun
+Beef noodles soup: 
+	Beef noodles
+		Beef noodles soup
+		Braised beef tendon noodles
+	Udon/soba
+		Beef udon soup
+Chocolate chip bread: 
+	Bread slice/roll
+		Chocolate chip bread
+Soya milk with grass jelly: 
+	Soya milk/soya beancurd
+		Soya milk with grass jelly
+Mini fish steamboat: 
+	Soup with fish/seafood
+		Double fish mini steamboat
+		Fried fish head mini steamboat
+		Fried fish mini steamboat
+		Sliced fish mini steamboat
+Claypot ee mee noodles: 
+	Claypot rice/noodles
+		Claypot ee mee noodles
+		Seafood claypot noodles
+Wine: 
+	Alcohol
+		Wine
+Onion bhaji: 
+	Indian snacks
+		Onion bhaji
+Dark soy sauce chicken in claypot: 
+	Chicken
+		Dark soy sauce chicken in claypot
+Crystal dumpling: 
+	Steamed dimsum/dumpling
+		Crystal dumpling
+Carrot cake with cream cheese: 
+	Cake
+		Carrot cake with cream cheese
+Beancurd dessert with toppings: 
+	Pudding/jelly
+		Beancurd with toppings
+Popiah: 
+	Popiah/spring roll
+		Popiah
+Sausage/taiwanese sausage: 
+	Sausage/meat roll
+		Sausage
+		Taiwanese sausage
+		Cheese sausage
+		Cocktail sausage
+		Lap cheong (chinese sausage)
+Chicken feet: 
+	Steamed dimsum/dumpling
+		Dim sum, chicken feet
+Preserved egg: 
+	Egg/egg-based dishes
+		Century egg
+Espresso: 
+	Coffee
+		Espresso
+Hot and sour noodle soup: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Suan la mian (hot and sour noodles)
+Chwee kway: 
+	Kueh
+		Chwee kway
+Dhansak/dhal curry/mixed vegetable kurma: 
+	Curry/rendang/pachadi
+		Dhal curry
+		Dhansak
+		Mixed vegetable kurma
+Ipoh hor fun: 
+	Hor fun
+		Ipoh hor fun
+Crispy fried fish skin: 
+	Chips/popcorn
+		Crispy fried fish skin
+Char siew soh: 
+	Fried dimsum/dumpling
+		Char siew soh
+Barfi/sohn papadi: 
+	Indian dessert
+		Barfi
+		Sohn papdi
+Fish burger: 
+	Burger
+		Fish burger
+	Fast food
+		Fish burger (fast food)
+		Fish burger with corn (fast food)
+		Fish burger with french fries (fast food)
+Pig's stomach soup: 
+	Soup with offals
+		Pig's stomach soup
+Chocolate tart: 
+	Tart
+		Chocolate tart
+Sweet potato porridge: 
+	Porridge
+		Sweet potato porridge
+Yakitori chicken: 
+	Satay/yakitori
+		Yakitori chicken
+Curry udon: 
+	Udon/soba
+		Curry udon (with potato and carrot)
+Plum: 
+	Fruits
+		Plum
+Nasi goreng: 
+	Malay rice dishes
+		Nasi goreng
+Orange: 
+	Fruits
+		Orange
+Japanese ramen: 
+	Ramen
+		Japanese ramen with beef
+		Japanese ramen with chicken
+		Japanese ramen with pork
+		Miso ramen
+		Shio ramen
+		Shouyu ramen
+Boiled black chicken: 
+	Chicken
+		Boiled black chicken
+Dragonfruit: 
+	Fruits
+		Dragonfruit
+Beef ball kway teow soup: 
+	Beef noodles
+		Beef ball kway teow soup
+Grass jelly dessert with toppings: 
+	Pudding/jelly
+		Grass jelly with toppings
+Chicken macaroni soup: 
+	Chicken/duck noodles
+		Chicken macaroni soup
+Braised pig trotter with mushroom: 
+	Pork
+		Braised pig trotter with mushroom
+Beef ball soup: 
+	Soup with beef
+		Beef ball soup
+Instant noodles: 
+	Instant noodles/ramyeon
+		Instant noodles with soup
+		Dry instant noodles
+	Noodles with pork
+		Hk style luncheon meat noodle
+Black sesame paste: 
+	Dessert paste
+		Black sesame paste
+Pumpkin soup: 
+	Cream soup (e.g. mushroom soup)
+		Pumpkin soup
+Thairu: 
+	Yoghurt
+		Thairu
+Spicy beef soup with rice: 
+	Korean rice dishes
+		Kimchi jjigae (kimchi stew with rice)
+		Yukgaejang (korean spicy beef soup with rice)
+Nasi lemak rice: 
+	Malay rice dishes
+		Nasi lemak
+		Nasi lemak rice
+Bread with cheese cubes: 
+	Bun with non-meat filling
+		Bread loaf with cheese cubes
+Roasted pork belly: 
+	Pork
+		Roasted pork belly
+Lor mee: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Lor mee
+Katsu curry rice: 
+	Japanese curry/omu rice
+		Chicken katsu with japanese curry and rice
+		Pork katsu curry rice
+		Chicken katsu curry omurice
+		Pork katsu curry omurice
+Xxl crispy fried chicken: 
+	Fried chicken
+		Xxl crispy fried chicken
+Langsat: 
+	Fruits
+		Langsat
+Chocolate: 
+	Candy/chocolate
+		Dark chocolate
+		Milk chocolate
+White rice: 
+	Plain/flavoured rice
+		White rice
+Cherry tomato: 
+	Tomato
+		Cherry tomato
+Sup tulang: 
+	Soup with mutton
+		Sup tulang
+Teh o/black tea: 
+	Tea
+		Black tea, no sugar
+		Teh o
+		Teh o kosong
+		Teh o siu dai
+Coconut ice cream: 
+	Ice cream
+		Coconut ice cream
+Green bean soup: 
+	Dessert soup
+		Green bean soup
+		Bubur kacang
+Baked mooncake: 
+	Mooncake
+		Baked mooncake with egg yolk
+		Baked mooncake, no egg yolk
+Sotong masak hitam squid cook with squid ink: 
+	Octopus/squid/cuttlefish
+		Sotong masak hitam (squid cook with squid ink)
+Barbecued spring chicken/grilled spiced chicken/ayam panggang: 
+	Chicken
+		Ayam panggang
+		Barbecued spring chicken
+		Grilled spiced chicken
+Fried kway teow: 
+	Fried noodles
+		Fried kway teow
+	Vegetarian porridge/noodles
+		Fried vegetarian kway teow
+Fried mantou: 
+	Pau/mantou
+		Fried mantou
+Butterfly cookie: 
+	Biscuits
+		Butterfly cookie
+Duck rice: 
+	Rice with chicken/meat/seafood
+		Duck rice
+Tau suan with dough fritters: 
+	Dessert soup
+		Tau suan with dough fritters
+Flavoured donut: 
+	Donut/pretzel
+		Flavoured donut (e.g. glazed/chocolate donut)
+Fa cai in oyster sauce: 
+	Braised vegetables
+		Fa cai with mushroom in oyster sauce
+Snowskin mooncake: 
+	Mooncake
+		Snowskin mooncake
+Strawberry shortcake: 
+	Cake
+		Strawberry shortcake
+Deep fried chicken: 
+	Vegetarian mock meat
+		Deep fried mock chicken
+	Fast food
+		2 pc fried chicken (fast food)
+		3 pc fried chicken (fast food)
+		2 pc fried chicken with coleslaw (fast food)
+		2 pc fried chicken with coleslaw and mashed potato (fast food)
+		2 pc fried chicken with french fries (fast food)
+		2 pc fried chicken with french fries and coleslaw (fast food)
+		2 pc fried chicken with french fries and mashed potato (fast food)
+		2 pc fried chicken with mashed potato (fast food)
+		3 pc fried chicken with coleslaw (fast food)
+		3 pc fried chicken with coleslaw and mashed potato (fast food)
+		3 pc fried chicken with french fries (fast food)
+		3 pc fried chicken with french fries and coleslaw (fast food)
+		3 pc fried chicken with mashed potato (fast food)
+	Fried chicken
+		Deep fried chicken
+		Deep fried chicken wing
+		Shrimp paste chicken
+Steamed spare ribs: 
+	Pork ribs/spare ribs
+		Steamed spare ribs
+Yam pau: 
+	Pau/mantou
+		Yam pau
+Roasted barley tea: 
+	Tea
+		Roasted barley tea
+Sweet and sour prawn: 
+	Prawn
+		Sweet and sour prawn
+Winter melon and pork ribs soup: 
+	Soup with pork
+		Winter melon and pork ribs soup
+Ice jelly: 
+	Pudding/jelly
+		Aiyu jelly with toppings
+	Ice dessert
+		Ice jelly
+Aglio olio: 
+	Pasta
+		Plain aglio olio
+		Prawn aglio olio
+Pasta vongole: 
+	Pasta
+		Pasta vongole
+Egg sambal: 
+	Egg/egg-based dishes
+		Egg sambal
+Chia seeds: 
+	Nuts/seeds
+		Chia seeds
+Oatmeal with fruits: 
+	Cereals/oats
+		Oatmeal with fruits
+Chicken herbal soup: 
+	Soup with chicken
+		Chicken herbal soup
+Tomato pasta: 
+	Pasta
+		Pomodoro pasta
+		Chicken bolognese
+		Marinara pasta
+Barley drink: 
+	Asian drink
+		Barley drink
+Sesame seed ball: 
+	Chinese pastry/snacks
+		Sesame seed ball
+Kuih lopes pulut: 
+	Kueh
+		Kuih lopes pulut
+Egg/tuna mayonnaise sandwich: 
+	Sandwich
+		Egg mayonnaise sandwich
+		Tuna mayonnaise sandwich
+Brinjal pachadi: 
+	Curry/rendang/pachadi
+		Brinjal pachadi
+Fried beehoon with ingredients: 
+	Fried noodles
+		Fried beehoon
+		Fried beehoon with meat & egg
+	Vegetarian porridge/noodles
+		Vegetarian fried beehoon
+Pandan bread: 
+	Bread slice/roll
+		Pandan bread
+Deep fried soft-shell crab: 
+	Crab
+		Deep fried soft-shell crab
+Bottled milk tea: 
+	Tea
+		Bottled milk tea
+Suan la fen: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Suan la fen (hot and sour sweet potato noodles)
+Fried fish: 
+	Fried fish
+		Deep fried mackerel
+		Fried khun neng fish
+Papaya salad: 
+	Salad
+		Thai mango salad
+Assam fish/fish masak pedas: 
+	Assam dishes
+		Assam fish
+		Fish masak pedas
+Danish pastry: 
+	Western pastry
+		Danish pastry
+Jam tart: 
+	Tart
+		Jam tart
+Herbal duck soup: 
+	Soup with duck
+		Herbal duck soup
+Bhatura/puri: 
+	Indian bread (e.g. prata)
+		Bhatura
+		Puri
+Banana chips: 
+	Chips/popcorn
+		Banana chips
+Fruit salad: 
+	Salad
+		Fruit salad
+Chicken/cheese burger: 
+	Burger
+		Cheese burger
+		Chicken burger
+		Grilled chicken burger
+	Fast food
+		Chicken burger with corn (fast food)
+		Chicken burger with french fries (fast food)
+		Chicken burger (fast food)
+Ketupat: 
+	Plain/flavoured rice
+		Ketupat
+Guava: 
+	Fruits
+		Guava
+Steamed fish: 
+	Fish
+		Steamed fish with preserved black bean
+		Steamed pomfret
+Potato dishes: 
+	Potato/sweet potato
+		Fried potato in spiced batter
+		Indian stewed potato and peas
+Soon kway: 
+	Kueh
+		Soon kway
+Fried crab products: 
+	Crab
+		Crispy crab claws
+		Fried crab ball
+Bread roll: 
+	Bread slice/roll
+		White bread roll
+		Wholemeal bread roll
+Spirits: 
+	Alcohol
+		Spirits (vodka, rum, whisky, gin, brandy)
+Croissant: 
+	Croissant
+		Croissant
+Sweet potato soup: 
+	Dessert soup
+		Sweet potato soup
+Canned fruits: 
+	Fruits
+		Canned fruits
+Pumpkin seed: 
+	Nuts/seeds
+		Pumpkin seed
+Seaweed chicken: 
+	Chicken
+		Seaweed chicken
+Cream soup: 
+	Cream soup (e.g. mushroom soup)
+		Cream soup
+		Mushroom soup
+Chicken pongteh: 
+	Chicken
+		Chicken pongteh
+Barbecued/korean chicken: 
+	Chicken
+		Barbecued chicken wings
+		Korean spicy chicken
+Chasoba: 
+	Udon/soba
+		Cha soba
+Coffee bun: 
+	Bun with non-meat filling
+		Coffee bun
+Hot chocolate/coffee/chocolate ice blended drink with whipped cream: 
+	Malted/chocolate drink
+		Hot chocolate with whipped cream
+Lor bak/nonya style simmered pork: 
+	Pork
+		Lor bak
+		Nonya style simmered pork
+Stir fried cabbage: 
+	Stir fried vegetables
+		Stir fried cabbage
+	Braised vegetables
+		Braised chinese cabbage with pork
+Soft serve cone: 
+	Ice cream
+		Soft serve cone
+Cheese and ham bun: 
+	Bun with meat filling
+		Cheese and ham bun
+Hokkien mee: 
+	Prawn noodles
+		Hokkien mee
+Baked rice: 
+	Baked rice
+		Curry chicken baked rice
+		Pork chop baked rice
+		Chicken baked rice
+		Fish baked rice
+Soya sauce chicken noodles: 
+	Chicken/duck noodles
+		Soya sauce chicken noodles
+Garlic bread: 
+	Bread slice/roll
+		Garlic bread
+Pulled pork burger: 
+	Burger
+		Pulled pork burger
+Tofu soup with rice: 
+	Korean rice dishes
+		Sundubu jjigae (korean soft tofu stew with rice)
+Muah chee: 
+	Glutinous rice
+		Muah chee
+Seafood tom yum ban mian: 
+	Handmade noodles (e.g. ban mian)
+		Seafood tom yum ban mian
+Deep fried wanton: 
+	Fried dimsum/dumpling
+		Deep fried wanton
+Raisin bun: 
+	Bun with non-meat filling
+		Raisin bun
+		Raisin/cranberry cheese bun
+Walnut: 
+	Nuts/seeds
+		Walnut
+Stir fried glass noodles: 
+	Korean noodles
+		Japchae (korean stir fried glass noodles)
+	Stir fried vegetables
+		Stir fried mixed vegetables with tunghoon
+Potong ice cream: 
+	Ice cream
+		Potong ice cream
+Loveletter: 
+	Biscuits
+		Loveletter
+Roti john: 
+	Sandwich
+		Roti john
+Meat dumpling: 
+	Steamed dimsum/dumpling
+		Pork and chives dumpling
+		Steamed sui kow
+Kimchi fried rice: 
+	Korean rice dishes
+		Kimchi fried rice
+Popcorn: 
+	Chips/popcorn
+		Popcorn
+Avocados: 
+	Fruits
+		Avocados
+Braised pork with black fungus: 
+	Pork
+		Braised pork with black fungus
+Grass jelly drink: 
+	Asian drink
+		Grass jelly drink
+Vegetarian brown rice porridge: 
+	Vegetarian porridge/noodles
+		Vegetarian brown rice porridge
+Grilled octopus: 
+	Octopus/squid/cuttlefish
+		Sotong panggang
+Stir fried eggplant: 
+	Stir fried vegetables
+		Stir fried eggplant
+Kuih dodol: 
+	Kueh
+		Kuih dodol
+Fish ball soup: 
+	Soup with fish/seafood
+		Fish ball soup
+Hong shao tofu: 
+	Tofu/beancurd
+		Hong shao tofu
+Durian cake: 
+	Cake
+		Durian cake
+Blueberry: 
+	Fruits
+		Blueberry
+Non food: 
+	Non food
+		Non food
+Korean bulgogi meat with rice: 
+	Korean rice dishes
+		Korean bulgogi beef with rice
+		Korean bulgogi chicken with rice
+		Korean bulgogi pork with rice
+Tea leaf egg: 
+	Egg/egg-based dishes
+		Tea leaf egg
+Chocolate biscuit: 
+	Biscuits
+		Chocolate biscuit (chocolate chip/coated/flavoured)
+Peach: 
+	Fruits
+		Nectarine
+		Peach
+Ice cream: 
+	Ice cream
+		Fruit sorbet
+		Ice cream
+Stir fried prawn with broccoli: 
+	Cauliflower/broccoli
+		Stir fried broccoli with prawn
+Carrot soup with potato and pork ribs: 
+	Soup with pork
+		Carrot soup with potato and pork ribs
+Fried fish masala: 
+	Fried fish
+		Fried fish masala
+Soft pretzel: 
+	Donut/pretzel
+		Savoury soft pretzel
+		Sweet soft pretzel
+Kuih ko swee: 
+	Kueh
+		Kuih ko swee
+Rasgula: 
+	Indian dessert
+		Rasgula
+Stir fried garlic chives with prawn: 
+	Prawn
+		Stir fried garlic chives with prawn
+Eggs benedict: 
+	Western food
+		Eggs benedict
+Stir fried fish: 
+	Fish
+		Stir fried fish
+Laksa/curry noodles/tom yum noodle soup: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Chicken curry noodles
+		Laksa
+		Penang laksa
+	Handmade noodles (e.g. ban mian)
+		Tom yum noodles soup
+Glutinous rice: 
+	Glutinous rice
+		Glutinous rice in lotus leaf
+		Lor mai kai
+		Steamed glutinous rice
+Cafe coffee with milk: 
+	Coffee
+		Cappuccino
+		Caramel macchiato
+		Latte
+		Skinny latte
+Teriyaki chicken don: 
+	Japanese don
+		Teriyaki chicken don
+Fried luncheon meat: 
+	Bacon/ham/luncheon meat
+		Fried luncheon meat
+		Fried luncheon meat with egg
+Kuih bangkit: 
+	Kueh
+		Kuih bangkit
+Stir fried spinach: 
+	Stir fried vegetables
+		Stir fried spinach
+Fried mock fish: 
+	Vegetarian mock meat
+		Fried mock fish
+Kuih makmur: 
+	Kueh
+		Kuih makmur
+Flavoured milk: 
+	Milk
+		Flavoured milk (e.g. strawberry/chocolate milk)
+		Flavoured milk (e.g. strawberry/chocolate milk), low fat
+Plain porridge: 
+	Porridge
+		Plain porridge
+Pineapple: 
+	Fruits
+		Pineapple
+Fried pomfret in tomato and coconut sauce: 
+	Fried fish
+		Fried pomfret in tomato and coconut sauce
+Getuk ubi: 
+	Kueh
+		Getuk ubi
+Spinach with trio eggs: 
+	Stir fried vegetables
+		Spinach with trio eggs
+Boiled kampung chicken: 
+	Chicken
+		Boiled kampung chicken
+Donut with cream filling: 
+	Donut/pretzel
+		Donut with cream filling
+Salted egg yolk custard buns: 
+	Pau/mantou
+		Salted egg yolk custard buns
+Raisin: 
+	Dried fruit
+		Raisin
+Sesame roll: 
+	Kueh
+		Sesame roll
+Salted egg squid: 
+	Octopus/squid/cuttlefish
+		Salted egg squid
+Marshmallow: 
+	Candy/chocolate
+		Marshmallow
+Omelette: 
+	Egg/egg-based dishes
+		Egg fuyong
+		Fried egg with oysters
+		Omelette with longbeans, minced pork and prawn
+		Omelette with prawn and green onion
+		Onion omelette
+		Plain omelette
+Meat chops with spaghetti: 
+	Western food
+		Chicken chop with spaghetti
+		Pork chop with spaghetti
+Salted egg: 
+	Egg/egg-based dishes
+		Salted egg
+Soup with mutton: 
+	Soup with mutton
+		Chinese mutton soup
+		Kambing soup
+Thai boat noodles: 
+	Thai noodles
+		Mini beef boat noodles (soup)
+		Mini pork boat noodles (soup)
+Mango sticky rice: 
+	Thai dessert
+		Mango sticky rice
+Kopi o: 
+	Coffee
+		Kopi o
+		Kopi o kosong
+		Kopi o siu dai
+Naengmyeon: 
+	Korean noodles
+		Naengmyeon (korean cold noodles)
+Lemon tart: 
+	Tart
+		Lemon tart
+Fried noodles: 
+	Fried noodles
+		Fried yellow noodles
+	Malay noodles
+		Mee goreng
+Kway chap: 
+	Noodles with pork
+		Kway chap
+Pad thai: 
+	Thai noodles
+		Pad thai
+Butter cake: 
+	Cake
+		Butter cake
+Chawamushi: 
+	Egg/egg-based dishes
+		Chawanmushi
+Mee kuah: 
+	Malay noodles
+		Mee kuah
+Mochi: 
+	Japanese snacks
+		Mochi
+Vegetable u mian: 
+	Handmade noodles (e.g. ban mian)
+		Vegetable u mian
+Gyoza: 
+	Fried dimsum/dumpling
+		Gyoza
+Stir fried pig's liver: 
+	Offal
+		Stir fried pig's liver
+Meatballs: 
+	Western food
+		Meatballs
+Tau huey: 
+	Soya milk/soya beancurd
+		Tau huey
+Fried mushroom: 
+	Mushroom
+		Fried mushroom
+Cherries: 
+	Fruits
+		Cherries
+Steamed egg: 
+	Egg/egg-based dishes
+		Steamed egg with minced pork
+		Steamed egg with tofu
+Ice longan/lychee: 
+	Ice dessert
+		Ice longan/lychee
+Vadai with kacang hitam: 
+	Donut/pretzel
+		Vadai with kacang hitam
+Steamed crab: 
+	Crab
+		Steamed crab
+Ear biscuit: 
+	Biscuits
+		Ear biscuit
+Chocolate lava cake: 
+	Cake
+		Chocolate lava cake
+Bo luo bao: 
+	Bun with non-meat filling
+		Bo luo bao (pineapple bun)
+Wheatgrass drink: 
+	Asian drink
+		Wheatgrass drink
+Sa kei ma: 
+	Chinese pastry/snacks
+		Sa kei ma
+Soft boiled egg: 
+	Egg/egg-based dishes
+		Soft boiled egg
+Braised duck: 
+	Duck
+		Braised duck
+		Itik sioh
+Paper wrapped chicken: 
+	Chicken
+		Paper wrapped chicken
+Quail egg: 
+	Egg/egg-based dishes
+		Quail egg
+Boonthi: 
+	Indian snacks
+		Boondi
+Pig trotter in vinegar: 
+	Pork
+		Pig trotter in vinegar
+Beehoon soup with mixed ingredients eg seafood: 
+	Noodles with a mix of meat/seafood
+		Beehoon soup
+	Seafood/fishball noodles
+		Seafood beehoon soup
+Chocolate eclair: 
+	Puff
+		Chocolate ¨¦clair
+Tangyuen: 
+	Dessert soup
+		Tangyuen in soup
+		Tangyuen with fillings
+Stir fried pork: 
+	Pork
+		Stir fried pork
+Salmon don: 
+	Japanese don
+		Cooked salmon don
+		Raw salmon don
+Nasi minyak: 
+	Malay rice dishes
+		Nasi minyak
+Kheema: 
+	Mutton/lamb
+		Keema
+		Keema with coconut curry
+Almond paste: 
+	Dessert paste
+		Almond paste
+Salted egg pork ribs: 
+	Pork ribs/spare ribs
+		Salted egg pork rib
+Cheese tart: 
+	Tart
+		Cheese tart
+Mango sago pomelo: 
+	Ice dessert
+		Mango sago pomelo dessert
+Ma la xiang guo: 
+	Yong tau fu/ma la xiang guo
+		Ma la xiang guo
+Peng kueh: 
+	Kueh
+		Peng kueh
+Tauhu goreng: 
+	Tofu/beancurd
+		Tahu goreng
+Brownies: 
+	Cake
+		Brownies
+Butterfly fritter: 
+	Fritters (e.g. you tiao)
+		Butterfly fritter
+Soya milk: 
+	Soya milk/soya beancurd
+		Soya milk
+		Soya milk, no sugar
+		Soya milk, less sugar
+Beer: 
+	Alcohol
+		Light beer
+		Regular beer (ale, draught, lager)
+Vegetable briyani: 
+	Briyani
+		Vegetable briyani
+Tuna puff: 
+	Puff
+		Tuna puff
+Mee siam: 
+	Malay noodles
+		Mee siam
+Fishball: 
+	Fishball/fishcake/fish paste
+		Fried fish ball
+Vegetable tempura: 
+	Tempura
+		Indian deep fried battered eggplant
+		Vegetable tempura (e.g. eggplant, okra)
+Beef stomach noodles: 
+	Beef noodles
+		Beef stomach noodles
+Assam petai: 
+	Beans/dal
+		Assam petai
+Grilled fish with pasta: 
+	Pasta
+		Grilled fish with pasta
+Halwa: 
+	Indian dessert
+		Suji halwa
+		Halwa/halva
+Tomato and egg soup: 
+	Soup without meat
+		Tomato and egg soup
+Ciku: 
+	Fruits
+		Chiku
+Cabbage soup with pork: 
+	Soup with pork
+		Cabbage soup with pork ribs
+Tepung bungkus: 
+	Kueh
+		Tepung bungkus
+Curry puff/peanut puff: 
+	Puff
+		Chicken curry puff
+		Mutton curry puff
+		Potato curry puff
+		Sardine curry puff
+		Beef curry puff
+		Peanut puff
+Pesto pasta: 
+	Pasta
+		Plain pesto pasta
+Bacon: 
+	Bacon/ham/luncheon meat
+		Bacon
+Iced lemon tea/teh o limau: 
+	Tea
+		Ice teh o limau
+		Iced lemon tea
+Grilled chicken salad: 
+	Salad
+		Grilled chicken salad
+Hot plate tofu: 
+	Tofu/beancurd
+		Hot plate tofu
+Mixed fruits: 
+	Fruits
+		Mixed fruits cup
+Meat roll: 
+	Sausage/meat roll
+		Beancurd roll
+		Deep fried beancurd with shrimp
+		Fish ngoh hiang
+		Liver roll ngoh hiang
+		Meat roll ngoh hiang
+		Nonya style meat roll
+Macaroon: 
+	Western pastry
+		Macaron
+Fritter: 
+	Fritters (e.g. you tiao)
+		Goreng pisang
+		Green bean fritter
+		Jackfruit fritter
+		Kuih kasturi
+		Sweet potato fritter
+		Tapioca fritter
+		Yam fritter
+		Wu kok (fried taro puff)
+Kuih dadar: 
+	Kueh
+		Kuih dadar
+Thunder tea rice: 
+	Grain/fruit bowls (e.g. thunder tea rice, acai bowl)
+		Thunder tea rice
+Nasi kunyit: 
+	Malay rice dishes
+		Nasi kunyit
+Ang koo kueh: 
+	Kueh
+		Ang koo kueh
+Duck noodles soup: 
+	Chicken/duck noodles
+		Duck noodles soup
+Chinese style chicken and corn soup: 
+	Soup with chicken
+		Chinese style chicken and corn soup
+Biscuit with filling: 
+	Biscuits
+		Biscuit with filling
+Chocolate sundae: 
+	Ice cream
+		Chocolate sundae
+Kung po/szechuan chicken: 
+	Chicken
+		Kung po chicken
+		Szechuan chicken
+Chinese kueh: 
+	Kueh
+		Huat kuih
+		Wah ko kuih
+Sambal goreng: 
+	Tempeh
+		Sambal goreng
+Egg tart: 
+	Tart
+		Egg tart
+		Portuguese egg tart
+Chao sheng mian: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Chao sheng mian (crispy hong kong noodle with gravy)
+Americano: 
+	Coffee
+		Americano
+Stir fried salted vegetable with minced beef: 
+	Stir fried vegetables
+		Stir fried salted vegetable with minced beef
+Green chicken curry: 
+	Curry/rendang/pachadi
+		Green chicken curry
+Otah: 
+	Fishball/fishcake/fish paste
+		Otah
+Bubur kanji: 
+	Porridge
+		Bubur kanji
+Dry minced pork and mushroom noodles: 
+	Noodles with pork
+		Dry minced pork and mushroom noodles
+Pizza: 
+	Pizza
+		Pizza (e.g. hawaiian/pepperoni pizza)
+Pig's liver/organ soup: 
+	Soup with offals
+		Pig's liver soup
+		Pig's organ soup
+Calamari: 
+	Octopus/squid/cuttlefish
+		Calamari
+Soft drink: 
+	Soft drink
+		Diet/light soft drink
+		Soft drink (e.g. cola, root beer)
+Spicy tapioca chips: 
+	Chips/popcorn
+		Spicy tapioca chips
+Jap bento set: 
+	Japanese bento set
+		Fried chicken and takoyaki bento
+		Fried ebi and teriyaki chicken bento
+		Fried ebi and beef bento
+		Fried fish and beef bento
+		Fried fish and teriyaki chicken bento
+		Beef and teriyaki chicken bento
+		Saba fish with rice set
+		Salmon and teriyaki chicken bento
+Deep fried spare ribs: 
+	Pork ribs/spare ribs
+		King spare ribs
+		Deep fried spare ribs
+Kuih lapis: 
+	Kueh
+		Rainbow kuih lapis
+	Cake
+		Baked kuih lapis
+Chicken rendang: 
+	Curry/rendang/pachadi
+		Chicken rendang
+Gado gado: 
+	Salad
+		Gado gado
+Tapioca cake: 
+	Kueh
+		Pan fried tapioca cake
+		Malay tapioca kueh
+Bak kut teh: 
+	Soup with pork
+		Bak kut teh
+Xiao wan mian: 
+	Noodles with a mix of meat/seafood
+		Xiao wan mian (mini wok noodles)
+Thai basil meat with rice: 
+	Thai rice dishes
+		Thai basil chicken with rice
+		Thai basil pork with rice
+		Thai basil beef with rice
+Ham chi peng: 
+	Fritters (e.g. you tiao)
+		Ham chi peng
+		Ham chi peng with red bean filling
+Braised pig skin: 
+	Pork
+		Braised pig skin
+Instant coffee: 
+	Coffee
+		2-in-1 coffee, with creamer
+		2-in-1 coffee, with sugar
+		3 in 1 coffee
+Canned tuna salad: 
+	Salad
+		Canned tuna salad
+Pork chop western set: 
+	Western food
+		Pork chop western set
+Wafer ice cream: 
+	Ice cream
+		Wafer ice cream
+Black carrot cake: 
+	Carrot/yam cake
+		Black carrot cake
+Grilled fish with potato: 
+	Fish
+		Grilled fish with potato
+Black pepper crab: 
+	Crab
+		Black pepper crab
+Hot and spicy soup: 
+	Spicy soup
+		Korean hot and spicy soup
+		Sze chuan hot and sour soup
+Pau: 
+	Pau/mantou
+		Char siu pau
+		Vegetarian char siew pau
+		Chicken pau
+		Lotus seed pau
+		Pork pau
+		Red bean pau
+		Sweetcorn pau
+		Vegetable pau
+Pear: 
+	Fruits
+		Pear
+Blackberries: 
+	Fruits
+		Blackberries
+Strawberry: 
+	Fruits
+		Strawberry
+Fried snow peas with prawn: 
+	Stir fried vegetables
+		Stir fried snow peas with prawn
+Chocolate croissant: 
+	Croissant
+		Chocolate croissant
+Siu mai: 
+	Fried dimsum/dumpling
+		Siu mai
+Crab stick: 
+	Fishball/fishcake/fish paste
+		Crab stick
+Acai bowl: 
+	Grain/fruit bowls (e.g. thunder tea rice, acai bowl)
+		Acai bowl
+Crepe cake: 
+	Cake
+		Crepe cake
+Fried vegetable samosa: 
+	Indian snacks
+		Fried vegetable samosa
+Red bean soup: 
+	Dessert soup
+		Red bean soup
+Rempah udang: 
+	Kueh
+		Rempah udang
+Agar-agar: 
+	Pudding/jelly
+		Agar-agar
+Cereal prawn: 
+	Prawn
+		Cereal prawn
+Fresh fruit/vegetable juice: 
+	Juice
+		Fresh fruit and vegetable juice
+		Fresh fruit juice (e.g. orange juice)
+		Fresh vegetable juice (e.g. carrot/celery juice)
+Herbal jelly with sugar syrup: 
+	Pudding/jelly
+		Herbal jelly with sugar syrup
+Stir fried beef: 
+	Beef
+		Daging masak kicap
+		Stir fried beef
+		Stir fried beef with black bean sauce
+Fish head curry: 
+	Curry/rendang/pachadi
+		Fish head curry
+Stir fried asparagus with scallop: 
+	Stir fried vegetables
+		Stir fried asparagus with scallop
+Kuih rose: 
+	Kueh
+		Kuih rose
+Takoyaki: 
+	Japanese snacks
+		Takoyaki (e.g. octopus/bacon and cheese takoyaki)
+Chrysanthemum tea: 
+	Tea
+		Chrysanthemum tea, less sugar
+Lotus root soup with pork ribs: 
+	Soup with pork
+		Lotus root soup with pork ribs
+		Peanuts with pork ribs soup
+Ice limau: 
+	Juice
+		Ice limau
+Lotus paste with salted egg pastry: 
+	Chinese pastry/snacks
+		Lotus paste with salted egg pastry
+Unagi don: 
+	Japanese don
+		Unagi don
+Digestive biscuit: 
+	Biscuits
+		Digestive biscuit
+Nonya chap chye: 
+	Braised vegetables
+		Nonya chap chye
+Stir fried doumiao: 
+	Stir fried vegetables
+		Stir fried dou miao
+Stir fried cabbage with tanghoon: 
+	Stir fried vegetables
+		Stir fried cabbage with tanghoon
+Duck with salted vegetable soup: 
+	Soup with duck
+		Duck with salted vegetable soup
+Durian: 
+	Fruits
+		Durian
+Hot chocolate: 
+	Malted/chocolate drink
+		Hot chocolate
+Soft drink float: 
+	Soft drink
+		Soft drink float
+Potato chips: 
+	Chips/popcorn
+		Potato chips
+Baguette: 
+	Bread slice/roll
+		Baguette
+Lentils with rice: 
+	Plain/flavoured rice
+		Lentils with rice
+Mysorepak: 
+	Indian dessert
+		Mysore pak
+Stir fried nai bai: 
+	Stir fried vegetables
+		Stir fried nai bai/baby white
+Beef/mutton with sauce: 
+	Soup with beef
+		Beef goulash
+	Curry/rendang/pachadi
+		Mutton kurma
+		Beef rendang
+		Mutton rendang
+		Mutton vindaloo
+Scones: 
+	Western pastry
+		Scones
+Murtabak: 
+	Murtabak
+		Chicken murtabak
+		Mutton murtabak
+		Vegetable murtabak
+Har gow: 
+	Steamed dimsum/dumpling
+		Har gow
+Tauhu telur: 
+	Tofu/beancurd
+		Tahu telur
+Chendol: 
+	Ice dessert
+		Chendol
+Stir fried mixed vegetable: 
+	Stir fried vegetables
+		Stir fried mixed vegetable
+Tikka: 
+	Fish
+		Fish tikka
+	Chicken
+		Chicken tikka
+Pumpkin and sweet potato in sweetened coconut milk: 
+	Dessert soup
+		Pumpkin and sweet potato in sweetened coconut milk
+Bun: 
+	Bun with meat filling
+		Baked otah bun
+		Chicken and mushroom bun
+		Chicken curry bun
+		Dried shrimp bun
+		Tuna bun
+		Luncheon meat bun
+		Hot dog bun
+	Bun with non-meat filling
+		Custard bun
+		Kaya bun
+		Red bean bun
+Fried spring roll: 
+	Popiah/spring roll
+		Fried spring roll
+		Vietnamese fried spring roll
+Wanton/shrimp dumpling noodles dry: 
+	Wanton/dumpling noodles
+		Dry shrimp dumpling noodles
+		Dry wanton noodles
+Duck porridge: 
+	Porridge
+		Duck porridge
+Sausage bun: 
+	Bun with meat filling
+		Sausage bun
+Braised beef stomach: 
+	Offal
+		Braised beef stomach
+Chicken rice: 
+	Rice with chicken/meat/seafood
+		Chicken rice
+Plain milk: 
+	Milk
+		Low fat milk
+		Milk
+		Skimmed milk
+Omu rice/nasi pattaya: 
+	Japanese curry/omu rice
+		Omurice
+	Malay rice dishes
+		Nasi pattaya
+Wanton soup: 
+	Soup with pork
+		Wanton soup
+Milo drink: 
+	Malted/chocolate drink
+		Milo drink
+Muffin: 
+	Cake
+		Muffin (e.g. chocolate/blueberry muffin)
+Grapefruit: 
+	Fruits
+		Grapefruit
+Chilli crab: 
+	Crab
+		Chilli crab
+Ebi/tempura don: 
+	Japanese don
+		Ebi tempura don
+		Assorted tempura don
+Ravioli: 
+	Pasta
+		Ravioli
+Lobster roll: 
+	Sandwich
+		Lobster roll
+Pork floss bun: 
+	Bun with meat filling
+		Pork floss bun
+Shark fin soup: 
+	Soup with fish/seafood
+		Shark fin soup
+Bubor cha cha: 
+	Dessert soup
+		Bubor cha cha
+Chives dumpling: 
+	Steamed dimsum/dumpling
+		Ku chai kueh (chives dumpling)
+Puff dessert: 
+	Puff
+		Cream puff
+		Durian puff
+Herbal tea: 
+	Tea
+		Herbal tea, no sugar
+		Herbal tea, with sugar
+Stewed taupok: 
+	Tofu/beancurd
+		Stewed taupok
+Milo dinosaur: 
+	Malted/chocolate drink
+		Milo dinosaur
+		Milo godzilla
+Bread pudding: 
+	Pudding/jelly
+		Bread pudding
+Mee chang kueh: 
+	Waffle/pancake/crepe
+		Mee chang kueh (e.g. peanut/coconut mee chang kueh)
+Cuttlefish porridge: 
+	Porridge
+		Cuttlefish porridge
+Salted egg prawn: 
+	Prawn
+		Salted egg prawn
+Tandoori chicken: 
+	Chicken
+		Tandoori chicken
+Ham and cheese sandwich: 
+	Sandwich
+		Ham and cheese sandwich
+Sesame seed cookies: 
+	Biscuits
+		Sesame seed cookies
+Stir fried longbeans: 
+	Stir fried vegetables
+		Stir fried longbeans
+		Stir fried longbeans with meat
+Shepherd's pie: 
+	Pie
+		Shepherd's pie
+Ayam penyet with rice: 
+	Malay rice dishes
+		Ayam penyet with rice
+Vietnamese baguette: 
+	Sandwich
+		Beef banh mi (vietnamese beef baguette sandwich)
+		Chicken banh mi (vietnamese chicken baguette sandwich)
+		Pork banh mi (vietnamese pork baguette sandwich)
+Braised duck feet: 
+	Duck
+		Braised duck feet
+Beef steak: 
+	Western food
+		Black pepper steak
+		Grilled beef steak
+Stir fried bittergourd: 
+	Stir fried vegetables
+		Stir fried bittergourd with egg
+		Stir fried bittergourd with roasted pork
+Roasted chestnut: 
+	Nuts/seeds
+		Roasted chestnut
+Mock abalone: 
+	Vegetarian mock meat
+		Mock abalone
+Ice soursop: 
+	Ice dessert
+		Ice soursop
+Bibimbap: 
+	Korean rice dishes
+		Bibimbap
+Mac and cheese: 
+	Pasta
+		Mac and cheese
+Honey dew with sago: 
+	Ice dessert
+		Honeydew with sago
+Potato wedges: 
+	Fries/wedges
+		Potato wedges
+Horlick dinosaur: 
+	Malted/chocolate drink
+		Horlicks dinosaur
+Chee cheong fun: 
+	Steamed dimsum/dumpling
+		Chee cheong fun
+		Chee cheong fun with fillings (e.g. char siew/shrimp chee cheong fun)
+Plain waffle: 
+	Waffle/pancake/crepe
+		Plain waffle
+Champagne: 
+	Alcohol
+		Champagne
+Stir fried cuttlefish with chilli: 
+	Octopus/squid/cuttlefish
+		Stir fried cuttlefish with chilli
+Gingko nuts and beancurd soup: 
+	Dessert soup
+		Gingko nuts and beancurd soup
+Ondeh ondeh: 
+	Kueh
+		Ondeh ondeh
+Brown rice: 
+	Plain/flavoured rice
+		Brown rice
+		Mixed 20% brown and 80% white rice
+		Mixed 50% brown and 50% white rice
+Non-milk tea without topping: 
+	Bubble tea
+		Bubble flavoured tea (eg peach) no milk, w sugar, no topping
+		Bubble flavoured tea (eg peach), no milk, less sugar, no topping
+		Bubble green/black tea, no milk, less sugar, no topping
+		Bubble green/black tea, no milk, w sugar, no topping
+Lime: 
+	Fruits
+		Lime
+Stewed/braised mutton/dry mutton curry: 
+	Mutton/lamb
+		Daging kambing goreng
+		Lamb pirattal
+		Dry mutton curry
+Fish ball tanghoon soup: 
+	Seafood/fishball noodles
+		Fish ball tanghoon soup
+Water apple: 
+	Fruits
+		Water apple
+Braised egg in soya sauce: 
+	Egg/egg-based dishes
+		Braised egg in soya sauce
+Oyakodon: 
+	Japanese don
+		Oyakodon
+Dry duck noodles: 
+	Chicken/duck noodles
+		Dry duck noodles
+Coffee/chocolate ice blended drink without whipped cream: 
+	Ice blended drink
+		Coffee/chocolate ice blended drink, no whipped cream
+		Coffee/chocolate ice blended drink, with whipped cream
+Preserved vegetable and tofu soup: 
+	Soup without meat
+		Preserved vegetable and tofu soup
+Chickpea curry: 
+	Curry/rendang/pachadi
+		Chickpea curry
+Meat floss: 
+	Meat floss
+		Chicken floss
+		Crispy pork floss
+Sambal sweet potato leaves: 
+	Stir fried vegetables
+		Sambal sweet potato leaves
+Yu sheng: 
+	Salad
+		Yu sheng
+Cooked jellyfish with sesame seed: 
+	Seafood
+		Jellyfish with sesame seed
+Abok abok sago: 
+	Kueh
+		Abok abok sago
+Green tea: 
+	Tea
+		Green tea, no sugar
+		Green tea, with sugar
+Sashimi sushi: 
+	Sushi/gimbap
+		Sashimi sushi
+Papaya: 
+	Fruits
+		Papaya
+Dakgalbi with rice: 
+	Korean rice dishes
+		Dakgalbi with rice
+Stir fried chye sim: 
+	Stir fried vegetables
+		Stir fried chye sim
+Stir fried char siew noodles: 
+	Fried noodles
+		Stir fried char siew noodles
+Mushroom burger: 
+	Burger
+		Mushroom burger
+Caesar salad: 
+	Salad
+		Caesar salad
+Rempeyek: 
+	Chips/popcorn
+		Rempeyek
+Horlicks: 
+	Malted/chocolate drink
+		Horlicks
+Preserved plum: 
+	Dried fruit
+		Preserved plum
+Fried baby sotong: 
+	Octopus/squid/cuttlefish
+		Fried baby sotong
+Ice kacang: 
+	Ice dessert
+		Ice kacang
+		Ice sweetcorn
+Braised pork rib noodles: 
+	Noodles with pork
+		Braised pork rib noodles
+Roasted duck: 
+	Duck
+		Roasted duck
+Waffles with fillings: 
+	Waffle/pancake/crepe
+		Waffles with fillings (e.g. blueberry/peanut butter waffle)
+Chicken/mutton briyani: 
+	Briyani
+		Chicken briyani
+		Mutton briyani
+Peanut/walnut paste: 
+	Dessert paste
+		Peanut paste
+		Walnut paste
+Fried fishcake: 
+	Fishball/fishcake/fish paste
+		Deep fried spicy fishcake
+		Fried fishcake
+Beef stew soup: 
+	Soup with beef
+		Korean beef stew soup
+Stir fried lady finger: 
+	Stir fried vegetables
+		Stir fried lady finger
+Pork porridge: 
+	Porridge
+		Minced pork porridge
+		Peanut and pork porridge
+Cupcake with icing: 
+	Cake
+		Cupcake with icing
+Century egg porridge: 
+	Porridge
+		Century egg porridge
+Beef don: 
+	Japanese don
+		Beef don
+Milk tea with topping: 
+	Bubble tea
+		Flavoured milk tea (eg caramel), less sugar, w topping
+		Flavoured milk tea (eg caramel), w sugar & topping
+		Milk tea (eg regular, earl grey), less sugar, w topping
+		Milk tea (eg regular, earl grey), w sugar & topping
+Dry chicken feet noodles: 
+	Chicken/duck noodles
+		Dry chicken feet noodles
+Vietnamese fresh spring roll: 
+	Popiah/spring roll
+		Vietnamese fresh spring roll
+Yakitori chicken ball: 
+	Satay/yakitori
+		Yakitori chicken ball
+Rambutan: 
+	Fruits
+		Rambutan
+Spicy prawn: 
+	Prawn
+		Malay style fried spicy prawn
+		Sambal/assam prawn
+Kaya butter steamed bread: 
+	Bread with spread/toast
+		Kaya butter steamed bread
+Milk tea without topping: 
+	Bubble tea
+		Flavoured milk tea (eg caramel), less sugar, no topping
+		Flavoured milk tea (eg caramel), w sugar, no topping
+		Milk tea (eg regular, earl grey), less sugar, no topping
+		Milk tea (eg regular, earl grey), w sugar, no topping
+	Thai milk tea
+		Thai green milk tea
+		Thai milk tea
+Korean ramen with meat: 
+	Instant noodles/ramyeon
+		Ramyeon with beef (korean instant noodles)
+		Ramyeon with chicken (korean instant noodles)
+		Ramyeon with pork (korean instant noodles)
+Jackfruit: 
+	Fruits
+		Jackfruit
+Chicken nugget: 
+	Chicken
+		Chicken nugget
+Cutlet: 
+	Cutlet
+		Chicken cutlet
+		Mutton cutlet
+		Pork cutlet
+Meatball pasta: 
+	Pasta
+		Meatball pasta
+Seafood pancake: 
+	Waffle/pancake/crepe
+		Seafood pancake
+Achar: 
+	Preserved vegetables (e.g. achar)
+		Achar
+Tempeh: 
+	Tempeh
+		Deep fried tempeh
+Pandan chiffon cake: 
+	Cake
+		Pandan chiffon cake
+Kidney mee sua soup: 
+	Noodles with pork
+		Pork kidney mee sua soup
+Stir fried ee fu noodles: 
+	Fried noodles
+		Stir fried ee fu noodles
+Minced pork tofu soup: 
+	Soup with pork
+		Minced pork tofu soup
+Mushroom/with sea cucumber: 
+	Mushroom
+		Braised mixed mushroom
+		Stir fried sea cucumber with mushroom
+Castella cake: 
+	Cake
+		Cheese-flavoured castella cake (egg sponge cake)
+Cultured drinks: 
+	Cultured drink
+		Cultured milk
+		Cultured milk, less sugar
+Idli: 
+	Indian snacks
+		Idli
+Prata/chapati/naan: 
+	Indian bread (e.g. prata)
+		Chapati
+		Egg prata
+		Naan
+		Onion prata
+		Plain roti prata
+		Cheese prata bomb
+		Roti prata with gravy
+		Prata bomb (with margarine and sugar)
+Rice dumpling: 
+	Rice dumpling
+		Kee chang
+		Nonya rice dumpling
+		Rice dumpling with meat filling
+		Vegetarian rice dumpling
+Beef soup with buah keluak nuts: 
+	Soup with beef
+		Beef soup with buah keluak
+Satay: 
+	Satay/yakitori
+		Beef satay with sauce
+		Chicken satay with sauce
+		Mutton satay with sauce
+		Pork satay with sauce
+Mee/beehoon soto/soto ayam: 
+	Malay noodles
+		Beehoon soto
+		Mee soto
+		Soto ayam
+Deep fried battered prawn: 
+	Tempura
+		Tempura prawn
+	Prawn
+		Deep fried battered prawn
+Red bean cake: 
+	Chinese pastry/snacks
+		Red bean cake
+Seafood paella: 
+	Western food
+		Seafood paella
+Lontong goreng: 
+	Malay rice dishes
+		Lontong goreng
+Stir fried chicken: 
+	Chicken
+		Stir fried chicken
+Miso soup: 
+	Soup without meat
+		Miso soup
+Fish ball noodles soup: 
+	Seafood/fishball noodles
+		Fish ball noodles soup
+White bread: 
+	Bread slice/roll
+		White bread
+	Bread with spread/toast
+		White bread with peanut butter
+		White bread with jam
+		White bread with kaya and butter
+Biscuit with fruits/nuts: 
+	Biscuits
+		Biscuit with fruits/nuts
+Sweet and sour meat: 
+	Pork
+		Sweet sour pork
+	Chicken
+		Sweet and sour chicken
+	Fish
+		Sweet and sour fish
+	Bacon/ham/luncheon meat
+		Sweet and sour luncheon meat
+Dry ban mian: 
+	Handmade noodles (e.g. ban mian)
+		Dry ban mian
+Mapo tofu: 
+	Tofu/beancurd
+		Mapo tofu
+Indian style beehoon goreng: 
+	Fried noodles
+		Indian style beehoon goreng
+Pomegranate: 
+	Fruits
+		Pomegranate
+Roasted mixed nuts: 
+	Nuts/seeds
+		Roasted mixed nuts
+Stir fried celery with beef: 
+	Stir fried vegetables
+		Stir fried celery with beef
+Pineapple tart: 
+	Chinese pastry/snacks
+		Pineapple tart
+Shredded chicken and mushroom noodles: 
+	Chicken/duck noodles
+		Dry shredded chicken and mushroom noodles
+Seafood soup: 
+	Soup with fish/seafood
+		Seafood soup
+Dried persimmon: 
+	Dried fruit
+		Dried persimmon
+Pho: 
+	Vietnamese noodles
+		Chicken pho
+		Beef pho
+Focaccia bread: 
+	Bread slice/roll
+		Focaccia bread
+Cuttlefish finger: 
+	Octopus/squid/cuttlefish
+		Cuttlefish finger
+Bubur terigu: 
+	Dessert soup
+		Bubur terigu
+Grape: 
+	Fruits
+		Grape
+Lo han chai: 
+	Braised vegetables
+		Lo han chai
+Fried rice: 
+	Fried rice
+		Fried rice
+		Pineapple fried rice
+		Olive fried rice
+Sushi roll: 
+	Sushi/gimbap
+		Chicken gimbap (korean rice roll with chicken)
+		Bulgogi gimbap (korean rice roll with spicy beef)
+		Seafood sushi
+		Sushi roll
+Satay beehoon: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Satay beehoon
+Tapioca with coconut milk: 
+	Dessert soup
+		Tapioca with coconut milk
+Chinese tea: 
+	Tea
+		Chinese tea
+Toast: 
+	Toast
+		Butter and sugar toast
+		Ham and cheese toast
+	Bread with spread/toast
+		Kaya and butter toast
+		Toast
+		Toast with butter
+Apple crumble: 
+	Western pastry
+		Apple crumble
+Waxed duck: 
+	Duck
+		Waxed duck
+Jalebi: 
+	Indian snacks
+		Jalebi
+Ikan bilis: 
+	Fish
+		Ikan bilis
+Dry prawn noodles: 
+	Prawn noodles
+		Dry prawn noodles
+Water chestnut: 
+	Asian drink
+		Water chestnut drink
+Apple strudel: 
+	Western pastry
+		Apple strudel
+Pulut hitam: 
+	Dessert soup
+		Pulut hitam
+Mutton masala/curry with potato/spiced: 
+	Curry/rendang/pachadi
+		Mutton masala
+		Spiced mutton
+		Mutton curry with potato
+Rosti/rosti with sausage: 
+	Potato/sweet potato
+		Rosti
+		Rosti with sausage
+Persimmon: 
+	Fruits
+		Persimmon
+Steamed pork dumpling: 
+	Steamed dimsum/dumpling
+		Xiao long bao (steamed pork dumpling)
+Lychee: 
+	Fruits
+		Lychee
+Fried mock duck: 
+	Vegetarian mock meat
+		Fried mock duck
+Seafood hor fun: 
+	Hor fun
+		Seafood hor fun
+		Sliced fish hor fun
+Eggplant curry: 
+	Curry/rendang/pachadi
+		Eggplant curry
+Carbonara: 
+	Pasta
+		Carbonara
+Milkshake/smoothie: 
+	Milkshake/smoothie
+		Milkshake
+		Smoothie
+Hard boiled egg: 
+	Egg/egg-based dishes
+		Hard boiled egg
+Kimchi pancake: 
+	Waffle/pancake/crepe
+		Kimchi pancake
+Steamed minced pork with fish/mushroom and preserved veg: 
+	Pork
+		Minced pork and mushroom steamed with preserved vegetable
+		Steamed minced pork with salted fish
+Fried prawn dumpling: 
+	Fried dimsum/dumpling
+		Fried prawn dumpling
+Boiled cauliflower: 
+	Cauliflower/broccoli
+		Boiled cauliflower
+Meat ball curry: 
+	Curry/rendang/pachadi
+		Meat ball curry
+		Mutton kofta curry
+Crayfish hor fun: 
+	Hor fun
+		Crayfish hor fun
+Lemon: 
+	Fruits
+		Lemon
+Waffle with ice cream: 
+	Waffle/pancake/crepe
+		Waffle with ice cream
+Putu piring: 
+	Kueh
+		Putu piring
+Minced lamb curry with potato: 
+	Curry/rendang/pachadi
+		Minced lamb curry with potato
+Roasted suckling pig: 
+	Pork
+		Roasted suckling pig
+Fried mee siam: 
+	Malay noodles
+		Fried mee siam
+Sweet potato: 
+	Potato/sweet potato
+		Sweet potato
+Hong kong egglet: 
+	Waffle/pancake/crepe
+		Hongkong egglets (ji dan zai)
+Salted egg yolk croissant: 
+	Croissant
+		Salted egg yolk croissant
+Teppanyaki chicken: 
+	Chicken
+		Teppanyaki chicken
+Yong tau foo: 
+	Yong tau fu/ma la xiang guo
+		Mixed yong tau fu soup with rice/noodles
+		Mixed yong tau fu without rice/noodles
+Wholemeal bread: 
+	Bread slice/roll
+		Wholemeal bread
+	Bread with spread/toast
+		Wholemeal bread with jam
+		Wholemeal bread with kaya and butter
+		Wholemeal bread with peanut butter
+Bandung: 
+	Asian drink
+		Bandung
+Sambal kangkong: 
+	Stir fried vegetables
+		Sambal kangkong
+Emping: 
+	Chips/popcorn
+		Emping
+Fish soup: 
+	Soup with fish/seafood
+		Fish soup with rice
+Tutu kueh: 
+	Kueh
+		Tutu kueh (e.g. coconut/peanut tutu kueh)
+Pizza bun: 
+	Bun with meat filling
+		Pizza bun
+Non-milk tea with topping: 
+	Bubble tea
+		Bubble flavoured tea (eg peach), no milk, less sugar, w topping
+		Bubble flavoured tea (eg peach), no milk, w sugar & topping
+		Bubble green/black tea, no milk, less sugar, w topping
+		Bubble green/black tea, no milk, w sugar & topping
+Fried spicy mussels: 
+	Seafood
+		Fried spicy mussels
+Seafood ee mee: 
+	Seafood/fishball noodles
+		Seafood ee mee
+Nasi rawan: 
+	Malay rice dishes
+		Nasi rawan
+Durian pancake: 
+	Waffle/pancake/crepe
+		Durian pancake
+Vegetable salad: 
+	Salad
+		Vegetable salad with 3 toppings in cream-based dressing
+		Vegetable salad with 3 toppings in oil-based dressing
+		Vegetable salad with 4 toppings in cream-based dressing
+		Vegetable salad with 4 toppings in oil-based dressing
+		Vegetable salad with 3 toppings and chicken + egg in cream-based dressing
+		Vegetable salad with 3 toppings and chicken + egg in oil-based dressing
+		Vegetable salad with 3 toppings and chicken in cream-based dressing
+		Vegetable salad with 3 toppings and egg in cream-based dressing
+		Vegetable salad with 3 toppings and egg in oil-based dressing
+		Vegetable salad with 3 toppings and fish + egg in cream-based dressing
+		Vegetable salad with 3 toppings and fish + egg in oil-based dressing
+		Vegetable salad with 3 toppings and fish in cream-based dressing
+		Vegetable salad with 3 toppings and fish in oil-based dressing
+		Vegetable salad with 4 toppings and chicken + egg in cream-based dressing
+		Vegetable salad with 4 toppings and chicken + egg in oil-based dressing
+		Vegetable salad with 4 toppings and chicken in cream-based dressing
+		Vegetable salad with 4 toppings and chicken in oil-based dressing
+		Vegetable salad with 4 toppings and egg in cream-based dressing
+		Vegetable salad with 4 toppings and egg in oil-based dressing
+		Vegetable salad with 4 toppings and fish + egg in cream-based dressing
+		Vegetable salad with 4 toppings and fish + egg in oil-based dressing
+		Vegetable salad with 4 toppings and fish in cream-based dressing
+		Vegetable salad with 4 toppings and fish in oil-based dressing
+		Vegetable salad with 3 toppings and chicken in oil-based dressing
+Kim chi: 
+	Preserved vegetables (e.g. achar)
+		Kimchi
+Raw oyster: 
+	Seafood
+		Raw oyster
+Mee rebus: 
+	Malay noodles
+		Mee rebus
+Thosai: 
+	Indian bread (e.g. prata)
+		Paper thosai
+		Rawa thosai
+		Thosai
+		Thosai masala
+Mangosteen: 
+	Fruits
+		Mangosteen
+Stewed/braised chicken: 
+	Chicken
+		Ayam sioh
+		Ayam tempra
+		Braised chicken
+Kiwi: 
+	Fruits
+		Kiwi
+Cheddar cheese: 
+	Cheese
+		Cheddar cheese
+Longan: 
+	Fruits
+		Longan
+Cashew nut cookies: 
+	Biscuits
+		Cashew nut cookies
+Stir fried broccoli: 
+	Cauliflower/broccoli
+		Stir fried broccoli
+Raisin bread: 
+	Bread slice/roll
+		Raisin bread
+Roasted full chicken: 
+	Chicken
+		Roasted chicken
+Taiyaki: 
+	Japanese snacks
+		Cheese taiyaki
+		Red bean taiyaki
+Cheesecake: 
+	Cake
+		Cheesecake
+Fish tofu/cheese tofu: 
+	Tofu/beancurd
+		Fish tofu
+	Fishball/fishcake/fish paste
+		Cheese tofu
+Butter crab: 
+	Crab
+		Butter crab
+Tiramisu: 
+	Cake
+		Tiramisu
+Honey dew: 
+	Fruits
+		Honey dew
+Economic rice/nasi padang: 
+	Economic rice/nasi padang
+		Rice with 1 veg 1 meat
+		Rice with 1 veg 2 meat
+		Rice with 2 veg 1 meat
+		Rice with 3 veg
+		Rice with 3 veg 1 meat
+		Rice with 2 meat
+		Rice with 3 meat
+		Rice with 2 veg
+Ham: 
+	Bacon/ham/luncheon meat
+		Picnic ham
+		Chicken ham
+Steamed mantou: 
+	Pau/mantou
+		Steamed mantou
+Chicken wings: 
+	Fried chicken
+		Boneless chicken wings (original)
+	Chicken
+		Thai stuffed chicken wings
+Deep fried lemon chicken: 
+	Fried chicken
+		Deep fried lemon chicken
+Cheng tng/white fungus and longan soup/sea coconut: 
+	Dessert soup
+		Cheng tng
+		Ice sea coconut
+		Sea coconut
+		White fungus and longan soup
+Cheese bun: 
+	Bun with non-meat filling
+		Cheese bun
+Creamy pasta: 
+	Pasta
+		Creamy chicken pasta
+		Creamy mushroom pasta
+Sotong/cuttlefish with spice: 
+	Octopus/squid/cuttlefish
+		Dried cuttlefish with hot peanut sauce
+		Sotong sambal
+Sambal clams: 
+	Seafood
+		Sambal clams (la la)
+Crayfish pasta: 
+	Pasta
+		Crayfish pasta
+Fried egg: 
+	Egg/egg-based dishes
+		Fried egg/sunny side up
+Char siew: 
+	Pork
+		Char siew
+	Vegetarian mock meat
+		Mock char siew
+Putu mayam: 
+	Indian snacks
+		Putu mayam
+Plain water: 
+	Plain water
+		Plain water
+Ban mian/mee hoon kway: 
+	Handmade noodles (e.g. ban mian)
+		Ban mian
+		Pork dumpling ban mian
+		Mee hoon kway soup
+Lasagna: 
+	Pasta
+		Lasagna
+Sweet potato fries: 
+	Fries/wedges
+		Sweet potato fries
+Mui fan: 
+	Rice with chicken/meat/seafood
+		Mui fan
+Peanut soup: 
+	Dessert soup
+		Peanut soup
+Local coffee with milk: 
+	Coffee
+		Kopi
+		Kopi c
+		Kopi c kosong
+		Kopi c siu dai
+		Kopi siu dai
+		Yuanyang
+Boiled clams: 
+	Seafood
+		Boiled clams
+Jam biscuit: 
+	Biscuits
+		Jam biscuit
+Fish ball noodles dry: 
+	Seafood/fishball noodles
+		Dry fish ball noodles
+Prawn tempura udon soup: 
+	Udon/soba
+		Prawn tempura udon soup
+Coleslaw: 
+	Salad
+		Coleslaw
+Swiss roll: 
+	Cake
+		Swiss roll
+Rasmalai: 
+	Indian dessert
+		Rasmalai
+Red wine chicken mee sua: 
+	Chicken/duck noodles
+		Red wine chicken mee sua
+Chicken curry: 
+	Assam dishes
+		Assam chicken
+		Daging asam
+	Curry/rendang/pachadi
+		Ayam masak lemak cili padi
+		Chicken curry
+		Chicken korma
+		Chicken masala
+		Chicken opor
+Chocolate cake: 
+	Cake
+		Chocolate cake
+Apple pie: 
+	Pie
+		Apple pie
+Paru goreng: 
+	Offal
+		Paru goreng
+Roti jala: 
+	Waffle/pancake/crepe
+		Roti jala (net crepes)
+Dao xiao mian: 
+	Handmade noodles (e.g. ban mian)
+		Soup dao xiao mian with beef (knife cut noodles)
+Chirashi don: 
+	Japanese don
+		Chirashi don
+Mushroom and minced pork noodles soup: 
+	Noodles with pork
+		Minced pork and mushroom noodles soup
+Beef and radish soup: 
+	Soup with beef
+		Beef and radish soup
+Chocolate burfi: 
+	Indian dessert
+		Chocolate burfi
+Ovaltine drink: 
+	Malted/chocolate drink
+		Ovaltine drink
+Dan dan noodles: 
+	Noodles in sauce/gravy (e.g. dandan mian, laksa)
+		Dan dan noodles
+Muesli bar: 
+	Muesli bar
+		Chocolate muesli bar
+		Muesli bar with nuts/fruits
+		Yoghurt muesli bar
+Tea with milk: 
+	Tea
+		Teh
+		Teh c
+		Teh c kosong
+		Teh c siu dai
+		Teh halia
+		Teh siu dai
+Yoghurt: 
+	Yoghurt
+		Flavoured low fat yoghurt
+		Low-fat natural yoghurt
+		Natural yoghurt
+		Yoghurt with fruit
+Sugar cane juice: 
+	Asian drink
+		Sugar cane juice
+Korean spicy rice cake: 
+	Korean rice dishes
+		Tteokbokki (korean spicy rice cake)
